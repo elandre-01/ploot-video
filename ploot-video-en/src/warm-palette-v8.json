@@ -1,0 +1,86 @@
+{
+  "warm-seat": {
+    "dur": 0.18039583333333334,
+    "peak": 0.00581,
+    "ext": "wav",
+    "fadeIn": 0.008,
+    "fadeOut": 0.07,
+    "source": "impact/Audio/impactSoft_medium_001.ogg",
+    "sourceSHA256": "7642a4fd43e547afe4f7adfadb3dabb681c0ff512f52c1674bae30a726841faf",
+    "operation": null,
+    "license": "CC0",
+    "rmsDb": -14.85
+  },
+  "warm-knock": {
+    "dur": 0.32979166666666665,
+    "peak": 0.00444,
+    "ext": "wav",
+    "fadeIn": 0.006,
+    "fadeOut": 0.1,
+    "source": "impact/Audio/impactWood_medium_001.ogg",
+    "sourceSHA256": "15271dbe8e2872dbb0ff1aeb7b12b2d2b92b7c1951c88532b9ab9158c36dfc73",
+    "operation": null,
+    "license": "CC0",
+    "rmsDb": -22.52
+  },
+  "warm-tick": {
+    "dur": 0.2627083333333333,
+    "peak": 0.00412,
+    "ext": "wav",
+    "fadeIn": 0.006,
+    "fadeOut": 0.08,
+    "source": "impact/Audio/impactWood_light_003.ogg",
+    "sourceSHA256": "cdfbe8af2fe7ff9ee28f337a0a989deee0f327620da456c8413644880e9d0004",
+    "operation": null,
+    "license": "CC0",
+    "rmsDb": -23.71
+  },
+  "warm-swish": {
+    "dur": 0.3516458333333333,
+    "peak": 0.17404,
+    "ext": "wav",
+    "fadeIn": 0.035,
+    "fadeOut": 0.1,
+    "source": "woosh4.ogg",
+    "sourceSHA256": "b850161c99a7ceee79e20315d162039571b072b6a4ac6db2010b22b95d3b5440",
+    "operation": null,
+    "license": "CC0",
+    "rmsDb": -19.57
+  },
+  "warm-away": {
+    "dur": 0.29735416666666664,
+    "peak": 0.10433,
+    "ext": "wav",
+    "fadeIn": 0.025,
+    "fadeOut": 0.1,
+    "source": "woosh6.ogg",
+    "sourceSHA256": "5efcb2b81dfafde73bff6be8094eed88ec7bf10f8b535a3d00ad2bd83d391a6d",
+    "operation": null,
+    "license": "CC0",
+    "rmsDb": -19.32
+  },
+  "warm-rewind": {
+    "dur": 0.7689166666666667,
+    "peak": 0.4231,
+    "ext": "wav",
+    "fadeIn": 0.045,
+    "fadeOut": 0.13,
+    "source": "woosh3.ogg",
+    "sourceSHA256": "7778451891d8d228be5fa9b95983df7b6511ffad96efd5140af99129722693f9",
+    "operation": "areverse,atempo=0.8",
+    "license": "CC0",
+    "rmsDb": -21.82
+  },
+  "warm-calendar": {
+    "dur": 2.0136041666666666,
+    "peak": 0.62375,
+    "ext": "wav",
+    "fadeIn": 0.09,
+    "fadeOut": 0.18,
+    "source": "woosh7.ogg",
+    "sourceSHA256": "f0a5cc4da7019469d70567ff7b8e5bb8011765fd29510c2cacf79202b5ddd60c",
+    "operation": "atempo=0.5,atempo=0.874",
+    "license": "CC0",
+    "rmsDb": -26.32
+  }
+}

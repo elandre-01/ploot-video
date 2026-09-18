@@ -1,0 +1,26 @@
+# Repositorio del vídeo de Ploot: sólo se versionan los dos proyectos HyperFrames.
+# Todo lo demás de la carpeta PLOOT (tomas sueltas, stems, capturas, referencias) queda fuera.
+/*
+!/.gitignore
+!/README.md
+!/ploot-video/
+!/ploot-video-en/
+
+# Dentro de cada proyecto, fuera lo generado y lo pesado
+/ploot-video*/renders/
+/ploot-video*/review/
+/ploot-video*/snapshots/
+/ploot-video*/.thumbnails/
+/ploot-video*/node_modules/
+# Música con licencia (Artlist / Lyria): se guarda aparte, ver README
+/ploot-video*/.media/audio/bgm/
+/ploot-video*/assets/music/
+# Archivos sueltos en la raíz de cada proyecto (tomas y capturas de trabajo)
+/ploot-video*/*.mp3
+/ploot-video*/*.wav
+/ploot-video*/*.png
+/ploot-video*/*.jpg
+/ploot-video*/*.mov
+/ploot-video*/*.mp4
+/ploot-video*/*.disabled
+.DS_Store

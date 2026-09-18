@@ -1,0 +1,33 @@
+{
+  "vhs-rewind-real": {
+    "dur": 1.5,
+    "peak": 0.23191666666666666,
+    "ext": "wav",
+    "fadeIn": 0.045,
+    "fadeOut": 0.11,
+    "sourceURL": "https://bigsoundbank.com/vcr-rewind-s2693.html",
+    "license": "CC0",
+    "sourceSHA256": "906a93079ba79d144a08503966ed604ae6224c43f0480f03142df7069eafa391",
+    "trim": [
+      "-ss",
+      "43.35",
+      "-t",
+      "1.50"
+    ],
+    "operation": null,
+    "rmsDb": -22.64441766144747
+  },
+  "calendar-air-long": {
+    "dur": 2.021006,
+    "peak": 1.7899583333333333,
+    "ext": "wav",
+    "fadeIn": 0.08,
+    "fadeOut": 0.18,
+    "sourceURL": "https://freesound.org/people/DJT4NN3R/sounds/449989/",
+    "license": "CC0",
+    "sourceSHA256": "238b78c4aef4cf2ee26c4b6bcaf6583bcc666c69ff935ee0abae76eeb651f321",
+    "trim": [],
+    "operation": "atrim=duration=2.6,areverse",
+    "rmsDb": -41.33483700455335
+  }
+}

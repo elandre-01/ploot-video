@@ -1,0 +1,74 @@
+{
+  "paper-tap": {
+    "dur": 0.19,
+    "peak": 0.04,
+    "ext": "wav",
+    "source": "card-place-1.ogg",
+    "sourceSHA256": "d8f26c33a665dcbdcc6f632f6050bc9dd548feb0d4942d4547615926d3926810",
+    "offset": 0.13396825396825396,
+    "fadeIn": 0.008,
+    "fadeOut": 0.056999999999999995,
+    "license": "CC0",
+    "rmsDb": -21.539536380688116
+  },
+  "paper-slide": {
+    "dur": 0.34,
+    "peak": 0.13,
+    "ext": "wav",
+    "source": "card-slide-1.ogg",
+    "sourceSHA256": "006cf9822d15d7063f8899e56041f41646df30adb6fbd8b974ee5d5420012690",
+    "offset": 0.029160997732426308,
+    "fadeIn": 0.008,
+    "fadeOut": 0.1,
+    "license": "CC0",
+    "rmsDb": -25.14486555939643
+  },
+  "paper-turn": {
+    "dur": 0.32,
+    "peak": 0.07354,
+    "ext": "wav",
+    "source": "card-slide-2.ogg",
+    "sourceSHA256": "e674a1679ec87b507047fe012d068ad2c412125f56186f0e732684705c2a6888",
+    "offset": 0,
+    "fadeIn": 0.008,
+    "fadeOut": 0.096,
+    "license": "CC0",
+    "rmsDb": -22.88301118148142
+  },
+  "paper-fan": {
+    "dur": 0.36,
+    "peak": 0.22286,
+    "ext": "wav",
+    "source": "card-fan-1.ogg",
+    "sourceSHA256": "7a9758ccad8899baef1b9f60b4064e4baa724a548293832fdaea07e6e07e638d",
+    "offset": 0.36081632653061224,
+    "fadeIn": 0.008,
+    "fadeOut": 0.1,
+    "license": "CC0",
+    "rmsDb": -20.170750779441917
+  },
+  "felt-click": {
+    "dur": 0.15002267573696146,
+    "peak": 0.02501,
+    "ext": "wav",
+    "source": "chip-lay-3.ogg",
+    "sourceSHA256": "bf24ebb417b6279568800dffdb0205d3ec8854c7efe179e8964755a6341727aa",
+    "offset": 0.0759297052154195,
+    "fadeIn": 0.008,
+    "fadeOut": 0.045,
+    "license": "CC0",
+    "rmsDb": -24.027768954251293
+  },
+  "air-pass": {
+    "dur": 0.38,
+    "peak": 0.10649,
+    "ext": "wav",
+    "source": "ploot-foley-woosh.ogg",
+    "sourceSHA256": "bcdde3410691845f4cc3bb7e2303445a483dc8d7692863c496c391733d40d2af",
+    "offset": 0,
+    "fadeIn": 0.008,
+    "fadeOut": 0.1,
+    "license": "CC0",
+    "rmsDb": -23.287390186093177
+  }
+}

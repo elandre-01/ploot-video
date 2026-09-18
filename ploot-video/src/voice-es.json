@@ -1,0 +1,206 @@
+{
+  "source": ".media/audio/voice/voice-whatsapp-es.mp3",
+  "note": "Toma en español recibida por WhatsApp el 17-09-2026 (72,05 s, 179 palabras). Colocada frase a frase sobre los anclajes visuales del montaje inglés V15 (voice-luke.json): cada corte cae dentro de un silencio real de la toma (silencedetect −38 dB); la palabra clave de cada frase aterriza entre 0 y 0,4 s antes/después del mismo momento visual que en inglés. mediaStart/mediaEnd en segundos de la toma; start en segundos finales de la composición.",
+  "clips": [
+    {
+      "id": "vo-01",
+      "start": 0,
+      "mediaStart": 0.1,
+      "mediaEnd": 3.9,
+      "text": "Ahora mismo hay personas decidiendo comprar justo lo que tú vendes."
+    },
+    {
+      "id": "vo-02a",
+      "start": 4.84,
+      "mediaStart": 4.33,
+      "mediaEnd": 7.23,
+      "text": "Entran a tu web, leen tu contenido y te comparan."
+    },
+    {
+      "id": "vo-02b",
+      "start": 8.94,
+      "mediaStart": 7.52,
+      "mediaEnd": 11.43,
+      "text": "Y tú estás perdiendo mucho dinero sin enterarte."
+    },
+    {
+      "id": "vo-02d",
+      "start": 13.29,
+      "mediaStart": 11.94,
+      "mediaEnd": 14.26,
+      "text": "Porque sigues vendiendo como hace cinco años."
+    },
+    {
+      "id": "vo-02e",
+      "start": 16.64,
+      "mediaStart": 14.88,
+      "mediaEnd": 19.64,
+      "text": "Mensajes en frío que nadie abre y rezar para que lleguen referidos."
+    },
+    {
+      "id": "vo-04a",
+      "start": 22.84,
+      "mediaStart": 20.45,
+      "mediaEnd": 21.25,
+      "text": "¿Y qué hacemos?"
+    },
+    {
+      "id": "vo-04b",
+      "start": 24.44,
+      "mediaStart": 21.94,
+      "mediaEnd": 24.07,
+      "text": "Más herramientas, más ruido."
+    },
+    {
+      "id": "vo-05",
+      "start": 26.58,
+      "mediaStart": 24.63,
+      "mediaEnd": 26.49,
+      "text": "Y cero reuniones."
+    },
+    {
+      "id": "vo-06",
+      "start": 29.58,
+      "mediaStart": 27.16,
+      "mediaEnd": 29.66,
+      "text": "Porque en B2B nadie compra a un desconocido."
+    },
+    {
+      "id": "vo-07",
+      "start": 32.64,
+      "mediaStart": 29.94,
+      "mediaEnd": 33.22,
+      "text": "La gente compra a quien ya conoce y a quien ya confía."
+    },
+    {
+      "id": "vo-08",
+      "start": 36.34,
+      "mediaStart": 33.95,
+      "mediaEnd": 36.42,
+      "text": "Y justo antes de comprar, lo demuestran."
+    },
+    {
+      "id": "vo-09",
+      "start": 39.14,
+      "mediaStart": 37.01,
+      "mediaEnd": 37.98,
+      "text": "Entran a tu web,"
+    },
+    {
+      "id": "vo-10",
+      "start": 40.54,
+      "mediaStart": 38.03,
+      "mediaEnd": 39.2,
+      "text": "visitan tu perfil,"
+    },
+    {
+      "id": "vo-11",
+      "start": 42.04,
+      "mediaStart": 39.21,
+      "mediaEnd": 41.31,
+      "text": "te siguen y analizan a tu competencia."
+    },
+    {
+      "id": "vo-13",
+      "start": 45.19,
+      "mediaStart": 41.81,
+      "mediaEnd": 43.22,
+      "text": "Son señales de compra"
+    },
+    {
+      "id": "vo-14",
+      "start": 47.89,
+      "mediaStart": 43.26,
+      "mediaEnd": 44.78,
+      "text": "y nadie las ve."
+    },
+    {
+      "id": "vo-15",
+      "start": 49.94,
+      "mediaStart": 45.52,
+      "mediaEnd": 47.16,
+      "text": "Por eso hemos creado Ploot,"
+    },
+    {
+      "id": "vo-16",
+      "start": 52.09,
+      "mediaStart": 47.43,
+      "mediaEnd": 52,
+      "text": "un nuevo sistema de go-to-market que convierte a tu equipo en tu mejor canal de ventas."
+    },
+    {
+      "id": "vo-17a",
+      "start": 57.09,
+      "mediaStart": 52.66,
+      "mediaEnd": 53.07,
+      "text": "Uno."
+    },
+    {
+      "id": "vo-17b",
+      "start": 57.51,
+      "mediaStart": 53.41,
+      "mediaEnd": 56.29,
+      "text": "Convertimos el conocimiento de tu equipo en audiencia."
+    },
+    {
+      "id": "vo-18a",
+      "start": 61.79,
+      "mediaStart": 56.48,
+      "mediaEnd": 56.96,
+      "text": "Dos."
+    },
+    {
+      "id": "vo-18b",
+      "start": 62.39,
+      "mediaStart": 57.23,
+      "mediaEnd": 59.22,
+      "text": "Detectamos cada señal de compra."
+    },
+    {
+      "id": "vo-19a",
+      "start": 66.44,
+      "mediaStart": 59.5,
+      "mediaEnd": 59.94,
+      "text": "Tres."
+    },
+    {
+      "id": "vo-19b",
+      "start": 67.09,
+      "mediaStart": 60.21,
+      "mediaEnd": 63.69,
+      "text": "Contactamos al lead en el momento justo para agendarte reunión."
+    },
+    {
+      "id": "vo-21a",
+      "start": 71.09,
+      "mediaStart": 64.25,
+      "mediaEnd": 66.2,
+      "text": "Deja de perseguir clientes fríos"
+    },
+    {
+      "id": "vo-21b",
+      "start": 73.14,
+      "mediaStart": 66.46,
+      "mediaEnd": 68.65,
+      "text": "y aparece cuando ya quieren comprarte."
+    },
+    {
+      "id": "vo-22",
+      "start": 76.25,
+      "mediaStart": 69.33,
+      "mediaEnd": 72.04,
+      "text": "Agenda una demo y analizaremos tu caso en concreto."
+    },
+    {
+      "id": "vo-brand-end",
+      "start": 79.14,
+      "mediaStart": 0.05,
+      "mediaEnd": 1.07,
+      "fadeIn": 0.01,
+      "source": ".media/audio/voice/voice_brand_ploot_es.mp3",
+      "text": "Ploot. (sting en español aportado el 17-09-2026; nivel igualado al sting inglés: archivo −14,6 LUFS × 0,62)",
+      "fadeOut": 0.08,
+      "volume": 0.62
+    }
+  ]
+}

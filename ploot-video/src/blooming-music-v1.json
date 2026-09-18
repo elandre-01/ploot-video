@@ -1,0 +1,240 @@
+{
+  "original": "/Users/elenaandreromero-nch/Desktop/PLOOT/Silly Putty - Blooming - Instrumental version.mp3 (Artlist)",
+  "duration": 81.139091,
+  "bpm": 110,
+  "stretch": 0.964828,
+  "revision": "V1 · Blooming (114 BPM) ralentizada un 3,5 % a 110 BPM para pisar la rejilla de la animación; siete cortes en primer tiempo de compás: chill 0–27,22 (cuatro fragmentos sin batería) · silencio · medio 29,27–48,09 (intro con batería) · silencio · fuerte 51,09–78,91 (drop en el burst de Ploot) · resolución 78,91–81,14 (final propio del tema). Niveles por etapa calibrados a los de Groove V7.",
+  "segments": [
+    {
+      "id": "blooming-chill-a",
+      "src": ".media/audio/bgm/blooming-chill-a.wav",
+      "start": 0.0909,
+      "duration": 8.727272,
+      "volume": 0.174,
+      "sourceOffset": 0,
+      "note": "chill · pads sin batería (compases 53–56)",
+      "fileLUFS": -11.8,
+      "toneHz": 2800,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.4,
+            "v": 1
+          },
+          {
+            "t": 8.607,
+            "v": 1
+          },
+          {
+            "t": 8.727,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "blooming-chill-b",
+      "src": ".media/audio/bgm/blooming-chill-b.wav",
+      "start": 8.818172,
+      "duration": 6.545454,
+      "volume": 0.164,
+      "sourceOffset": 0,
+      "note": "chill · breakdown (compases 30–32)",
+      "fileLUFS": -11.3,
+      "toneHz": 2800,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.12,
+            "v": 1
+          },
+          {
+            "t": 6.425,
+            "v": 1
+          },
+          {
+            "t": 6.545,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "blooming-chill-c",
+      "src": ".media/audio/bgm/blooming-chill-c.wav",
+      "start": 15.363626,
+      "duration": 6.545454,
+      "volume": 0.164,
+      "sourceOffset": 0,
+      "note": "chill · breakdown (compases 10–12)",
+      "fileLUFS": -11.3,
+      "toneHz": 2800,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.12,
+            "v": 1
+          },
+          {
+            "t": 6.425,
+            "v": 1
+          },
+          {
+            "t": 6.545,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "blooming-chill-d",
+      "src": ".media/audio/bgm/blooming-chill-d.wav",
+      "start": 21.90908,
+      "duration": 5.31092,
+      "volume": 0.195,
+      "sourceOffset": 0,
+      "note": "chill · pads hasta el silencio de «Cero reuniones»",
+      "fileLUFS": -12.8,
+      "toneHz": 2800,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.12,
+            "v": 1
+          },
+          {
+            "t": 5.191,
+            "v": 1
+          },
+          {
+            "t": 5.311,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "blooming-mid",
+      "src": ".media/audio/bgm/blooming-mid.wav",
+      "start": 29.272727,
+      "duration": 18.818182,
+      "volume": 0.251,
+      "sourceOffset": 0,
+      "note": "medio · intro con batería (compases 1–9) tras el silencio",
+      "fileLUFS": -8.6,
+      "toneHz": 6500,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.02,
+            "v": 1
+          },
+          {
+            "t": 18.668,
+            "v": 1
+          },
+          {
+            "t": 18.818,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "blooming-high",
+      "src": ".media/audio/bgm/blooming-high.wav",
+      "start": 51.090909,
+      "duration": 27.818182,
+      "volume": 0.537,
+      "sourceOffset": 0,
+      "note": "fuerte · drop en el burst de Ploot (compases 14–26)",
+      "fileLUFS": -7.5,
+      "toneHz": 16000,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.02,
+            "v": 1
+          },
+          {
+            "t": 27.668,
+            "v": 1
+          },
+          {
+            "t": 27.818,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "blooming-resolution",
+      "src": ".media/audio/bgm/blooming-resolution.wav",
+      "start": 78.909091,
+      "duration": 2.23,
+      "volume": 0.507,
+      "sourceOffset": 0,
+      "note": "resolución · final propio del tema sobre el logo",
+      "fileLUFS": -7,
+      "toneHz": 16000,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.02,
+            "v": 1
+          },
+          {
+            "t": 2.23,
+            "v": 1
+          },
+          {
+            "t": 2.23,
+            "v": 1
+          }
+        ]
+      }
+    }
+  ]
+}

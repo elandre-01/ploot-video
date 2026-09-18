@@ -1,0 +1,79 @@
+{
+  "soft-tap": {
+    "dur": 0.11,
+    "peak": 0.00417,
+    "ext": "wav",
+    "source": "back_004.ogg",
+    "sourceSHA256": "c22e3c49f42c2a5ba6748e91283efe124f32822469c1258c3e5d7b3d7ab9361c",
+    "license": "CC0",
+    "sourceURL": "https://kenney.nl/assets/interface-sounds",
+    "fadeIn": 0.002,
+    "fadeOut": 0.0242
+  },
+  "soft-pulse": {
+    "dur": 0.287,
+    "peak": 0.00424,
+    "ext": "wav",
+    "source": "drop_004.ogg",
+    "sourceSHA256": "10738707f9300f9b963ceba46d5da2ed4a221faf7d39484a643c2d3bc151c5f2",
+    "license": "CC0",
+    "sourceURL": "https://kenney.nl/assets/interface-sounds",
+    "fadeIn": 0.002,
+    "fadeOut": 0.055
+  },
+  "soft-slide": {
+    "dur": 0.28,
+    "peak": 0.20141,
+    "ext": "wav",
+    "source": "scroll_002.ogg",
+    "sourceSHA256": "6fbcda22bc45349c66f1ba4b56d6c211b12264e83667de4b9af1e4ffcef74be5",
+    "license": "CC0",
+    "sourceURL": "https://kenney.nl/assets/interface-sounds",
+    "fadeIn": 0.002,
+    "fadeOut": 0.055
+  },
+  "soft-dismiss": {
+    "dur": 0.12,
+    "peak": 0.00451,
+    "ext": "wav",
+    "source": "back_002.ogg",
+    "sourceSHA256": "61581c58194e3f19f531072edabbc344204c7e0a2887b8ededce4357bcf09195",
+    "license": "CC0",
+    "sourceURL": "https://kenney.nl/assets/interface-sounds",
+    "fadeIn": 0.002,
+    "fadeOut": 0.0264
+  },
+  "soft-lock": {
+    "dur": 0.32,
+    "peak": 0.00438,
+    "ext": "wav",
+    "source": "switch_002.ogg",
+    "sourceSHA256": "6fc395be2ad1f99ce318a5d28f98fb76dbeb676d83a0b28239d8c1fb90736180",
+    "license": "CC0",
+    "sourceURL": "https://kenney.nl/assets/interface-sounds",
+    "fadeIn": 0.002,
+    "fadeOut": 0.055
+  },
+  "soft-shuffle": {
+    "dur": 0.34,
+    "peak": 0.20349,
+    "ext": "wav",
+    "source": "scroll_003.ogg",
+    "sourceSHA256": "c2fecaa6e37c73d7141d0bd303d1c2231428d97c19ce83d50236a56804818643",
+    "license": "CC0",
+    "sourceURL": "https://kenney.nl/assets/interface-sounds",
+    "fadeIn": 0.002,
+    "fadeOut": 0.055
+  },
+  "soft-message": {
+    "dur": 0.383,
+    "peak": 0.02036,
+    "ext": "wav",
+    "source": "select_005.ogg",
+    "sourceSHA256": "ad09146e4ea33b931b2f5dfb4051a4f1fe4a36f1a48c42c5e9269c292ae21214",
+    "license": "CC0",
+    "sourceURL": "https://kenney.nl/assets/interface-sounds",
+    "fadeIn": 0.002,
+    "fadeOut": 0.055
+  }
+}

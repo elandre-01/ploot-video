@@ -1,0 +1,132 @@
+{
+  "ui-touch": {
+    "dur": 0.13,
+    "peak": 0.07,
+    "ext": "wav",
+    "description": "Selección seca y suave",
+    "sources": [
+      "touch"
+    ],
+    "rmsDb": -28.14,
+    "peakDb": -4.01
+  },
+  "ui-latch": {
+    "dur": 0.16,
+    "peak": 0.102,
+    "ext": "wav",
+    "description": "Pulsación con asentamiento",
+    "sources": [
+      "key",
+      "touch"
+    ],
+    "rmsDb": -27.64,
+    "peakDb": -4.01
+  },
+  "panel-seat": {
+    "dur": 0.24,
+    "peak": 0.131,
+    "ext": "wav",
+    "description": "Apoyo amortiguado de un panel",
+    "sources": [
+      "seat",
+      "key"
+    ],
+    "rmsDb": -21.49,
+    "peakDb": -4.01
+  },
+  "card-sort": {
+    "dur": 0.38,
+    "peak": 0.158,
+    "ext": "wav",
+    "description": "Tres contactos secos de una reordenación",
+    "sources": [
+      "key",
+      "touch",
+      "key"
+    ],
+    "rmsDb": -30.48,
+    "peakDb": -4.01
+  },
+  "signal-tick": {
+    "dur": 0.18,
+    "peak": 0.135,
+    "ext": "wav",
+    "description": "Dato detectado, pulso digital breve",
+    "sources": [
+      "signal"
+    ],
+    "rmsDb": -20.57,
+    "peakDb": -4.01
+  },
+  "confirm-soft": {
+    "dur": 0.38,
+    "peak": 0.132,
+    "ext": "wav",
+    "description": "Confirmación corta con cola redondeada",
+    "sources": [
+      "confirm",
+      "touch"
+    ],
+    "rmsDb": -22.97,
+    "peakDb": -4.01
+  },
+  "message-in": {
+    "dur": 0.34,
+    "peak": 0.195,
+    "ext": "wav",
+    "description": "Llegada de mensaje, sin cola larga",
+    "sources": [
+      "message"
+    ],
+    "rmsDb": -17.08,
+    "peakDb": -6.14
+  },
+  "coin-detail": {
+    "dur": 0.43,
+    "peak": 0.207,
+    "ext": "wav",
+    "description": "Detalle metálico de monedas",
+    "sources": [
+      "coin",
+      "coin",
+      "key"
+    ],
+    "rmsDb": -17.51,
+    "peakDb": -4.01
+  },
+  "step-mark": {
+    "dur": 0.26,
+    "peak": 0.026,
+    "ext": "wav",
+    "description": "Marca corta y mate para Uno, Dos, Tres",
+    "sources": [
+      "mark",
+      "key"
+    ],
+    "rmsDb": -17.08,
+    "peakDb": -12.14
+  },
+  "logo-inhale": {
+    "dur": 0.43,
+    "peak": 0.254,
+    "ext": "wav",
+    "description": "Anticipación tonal breve del logo",
+    "sources": [
+      "inhale"
+    ],
+    "rmsDb": -20.21,
+    "peakDb": -4.01
+  },
+  "logo-lock": {
+    "dur": 0.68,
+    "peak": 0.003,
+    "ext": "wav",
+    "description": "Cierre de marca con cuerpo breve y detalle tonal",
+    "sources": [
+      "lock",
+      "confirm"
+    ],
+    "rmsDb": -18.24,
+    "peakDb": -4.01
+  }
+}

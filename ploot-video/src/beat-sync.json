@@ -1,0 +1,525 @@
+{
+  "bpm": 110,
+  "beatOrigin": 23.0,
+  "sourceBeatPhase": 0,
+  "source": "assets/music/high-energy-bad-attitude.mp3",
+  "musicStart": 23.0,
+  "duration": 81.139091,
+  "anchors": [
+    {
+      "old": 0,
+      "new": 0,
+      "label": "scene-boundary",
+      "sync": false
+    },
+    {
+      "old": 1.15,
+      "new": 0.8,
+      "label": "opening-web",
+      "sync": false
+    },
+    {
+      "old": 3.05,
+      "new": 2.2,
+      "label": "exactly-what-you-sell",
+      "sync": false
+    },
+    {
+      "old": 4.45,
+      "new": 4.05,
+      "label": "entrada-senales-inicio",
+      "sync": false
+    },
+    {
+      "old": 5.15,
+      "new": 4.5,
+      "label": "zoom-web-inicio",
+      "sync": false
+    },
+    {
+      "old": 6.25,
+      "new": 5.5,
+      "label": "zoom-contenido-inicio",
+      "sync": false
+    },
+    {
+      "old": 7.45,
+      "new": 6.82,
+      "label": "comparacion-inicio",
+      "sync": false
+    },
+    {
+      "old": 8.85,
+      "new": 9.82,
+      "label": "perdiendo-dinero",
+      "sync": false
+    },
+    {
+      "old": 9.3,
+      "new": 10.12,
+      "label": "losing-money-title",
+      "sync": false
+    },
+    {
+      "old": 10.7,
+      "new": 11.45,
+      "label": "sin-enterarte",
+      "sync": false
+    },
+    {
+      "old": 12,
+      "new": 13.4,
+      "label": "scene-boundary",
+      "sync": false
+    },
+    {
+      "old": 12.55,
+      "new": 13.9,
+      "label": "rewind-chat",
+      "sync": false
+    },
+    {
+      "old": 12.9,
+      "new": 14.35,
+      "label": "five-years-title",
+      "sync": false
+    },
+    {
+      "old": 14.35,
+      "new": 16.27,
+      "label": "cold-messages",
+      "sync": false
+    },
+    {
+      "old": 15.88,
+      "new": 17.6,
+      "label": "nobody-opens",
+      "sync": false
+    },
+    {
+      "old": 17.5,
+      "new": 20.05,
+      "label": "referral-slot",
+      "sync": false
+    },
+    {
+      "old": 20.35,
+      "new": 23.0,
+      "label": "scene-boundary",
+      "sync": false
+    },
+    {
+      "old": 21.35,
+      "new": 24.363636,
+      "label": "herramientas",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 22.65,
+      "new": 25.454545,
+      "label": "mas-ruido",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 23.73,
+      "new": 26.545455,
+      "label": "entra-calendario-vacio",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 26.24,
+      "new": 29.272727,
+      "label": "porque-b2b",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 27.18,
+      "new": 30.363636,
+      "label": "scene-boundary",
+      "sync": false
+    },
+    {
+      "old": 28.0,
+      "new": 31.181818,
+      "label": "leido",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 29.53,
+      "new": 32.818182,
+      "label": "gente-compra",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 31.23,
+      "new": 34.454545,
+      "label": "relacion",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 33.96,
+      "new": 36.363636,
+      "label": "scene-boundary",
+      "sync": false
+    },
+    {
+      "old": 35.81,
+      "new": 38.0,
+      "label": "lo-demuestran",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 37.59,
+      "new": 39.090909,
+      "label": "entra-web",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 39.01,
+      "new": 40.454545,
+      "label": "clic-linkedin",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 40.76,
+      "new": 42.090909,
+      "label": "clic-seguir",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 42.16,
+      "new": 43.181818,
+      "label": "comparacion",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 44.36,
+      "new": 45.363636,
+      "label": "senales-compra",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 47.16,
+      "new": 48.090909,
+      "label": "nadie-las-ve",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 48.7,
+      "new": 50.0,
+      "label": "scene-boundary",
+      "sync": false
+    },
+    {
+      "old": 49.88,
+      "new": 51.090909,
+      "label": "reveal-ploot",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 51.2,
+      "new": 52.454545,
+      "label": "sistema",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 53.2,
+      "new": 54.363636,
+      "label": "equipo",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 55.6,
+      "new": 56.272727,
+      "label": "convergencia",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 56.77,
+      "new": 57.363636,
+      "label": "scene-boundary",
+      "sync": false
+    },
+    {
+      "old": 57.72,
+      "new": 57.909091,
+      "label": "dashboard",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 59.27,
+      "new": 59.0,
+      "label": "clic-dashboard",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 59.87,
+      "new": 59.545455,
+      "label": "perfil-audiencia",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 61.37,
+      "new": 61.181818,
+      "label": "top-voice",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 62.57,
+      "new": 62.0,
+      "label": "dos",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 63.57,
+      "new": 62.818182,
+      "label": "lista-leads",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 64.97,
+      "new": 63.909091,
+      "label": "ordena-leads",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 66.22,
+      "new": 65.0,
+      "label": "momento-ideal",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 67.57,
+      "new": 66.636364,
+      "label": "tres",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 68.52,
+      "new": 67.181818,
+      "label": "conversacion",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 69.17,
+      "new": 67.454545,
+      "label": "parrafo-1",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 69.62,
+      "new": 67.727273,
+      "label": "parrafo-2",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 70.07,
+      "new": 68.0,
+      "label": "parrafo-3",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 72.17,
+      "new": 68.545455,
+      "label": "enviar",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 72.72,
+      "new": 69.090909,
+      "label": "respuesta",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 74.02,
+      "new": 69.636364,
+      "label": "calendario-demos",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 74.62,
+      "new": 69.909091,
+      "label": "primera-demo",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 75.62,
+      "new": 70.727273,
+      "label": "agenda-confirmada",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 78.47,
+      "new": 71.032727,
+      "label": "salida-calendario",
+      "sync": false,
+      "subdivision": 2
+    },
+    {
+      "old": 78.87,
+      "new": 71.272727,
+      "label": "scene-boundary",
+      "sync": false
+    },
+    {
+      "old": 80.84,
+      "new": 73.181818,
+      "label": "web-cierre",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 82.32,
+      "new": 74.818182,
+      "label": "clic-visitante",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 83.79,
+      "new": 76.181818,
+      "label": "clic-contactar",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 85.76,
+      "new": 78.090909,
+      "label": "clic-cta",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 86.25,
+      "new": 78.909091,
+      "label": "logo-final",
+      "sync": true,
+      "subdivision": 2
+    },
+    {
+      "old": 88.58,
+      "new": 81.139091,
+      "label": "scene-boundary",
+      "sync": false
+    }
+  ],
+  "calendar": {
+    "start": 69.909091,
+    "groupInterval": 0.2727272727272727,
+    "groupSize": 4,
+    "duration": 0.3
+  },
+  "musicVolumePoints": [
+    [
+      23.0,
+      0
+    ],
+    [
+      24.363727,
+      0.7
+    ],
+    [
+      29.272727,
+      0.7
+    ],
+    [
+      31.181454,
+      0.5
+    ],
+    [
+      36.363381,
+      0.55
+    ],
+    [
+      38.000182,
+      0.65
+    ],
+    [
+      48.700757,
+      0.65
+    ],
+    [
+      50.000364,
+      0.4
+    ],
+    [
+      51.091288,
+      0.8
+    ],
+    [
+      52.454651,
+      0.7
+    ],
+    [
+      69.908818,
+      0.7
+    ],
+    [
+      71.818363,
+      0.62
+    ],
+    [
+      78.091591,
+      0.62
+    ],
+    [
+      78.909091,
+      0.78
+    ],
+    [
+      79.659091,
+      0.72
+    ],
+    [
+      81.139091,
+      0
+    ]
+  ],
+  "revision": "EN v1: V14 choreography, English UI/text, original Luke C voice at 1x, measured-silence cuts, musical accents at 110 BPM",
+  "contactExit": {
+    "start": 69.36,
+    "end": 69.636364
+  },
+  "contactCaptions": {
+    "leadOut": 68.26,
+    "momentIn": 68.4,
+    "momentOut": 69.5,
+    "chipOut": 69.44
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "source": ".media/audio/voice/voice_001.mp3",
+  "name": "Luke C · English",
+  "sourceDuration": 76.199125,
+  "playbackRate": 1,
+  "timingBasis": "final composition seconds; source cuts within measured pauses",
+  "clips": [
+    {
+      "id": "vo-01",
+      "start": 0,
+      "mediaStart": 0,
+      "mediaEnd": 3.7,
+      "text": "Right now, there are people deciding to buy exactly what you sell."
+    },
+    {
+      "id": "vo-02a",
+      "start": 4.5,
+      "mediaStart": 3.78,
+      "mediaEnd": 7.28,
+      "text": "They visit your website, they read your content, they compare you."
+    },
+    {
+      "id": "vo-02b",
+      "start": 8.07,
+      "mediaStart": 7.65,
+      "mediaEnd": 9.55,
+      "text": "And you?"
+    },
+    {
+      "id": "vo-02c",
+      "start": 10.1,
+      "mediaStart": 9.6,
+      "mediaEnd": 12.56,
+      "text": "You’re losing a lot of money without even knowing it."
+    },
+    {
+      "id": "vo-02d",
+      "start": 13.35,
+      "mediaStart": 12.68,
+      "mediaEnd": 15.85,
+      "text": "Because you’re still selling like it’s five years ago."
+    },
+    {
+      "id": "vo-02e",
+      "start": 16.55,
+      "mediaStart": 16.2,
+      "mediaEnd": 19.77,
+      "text": "Cold messages nobody opens."
+    },
+    {
+      "id": "vo-03",
+      "start": 20.2,
+      "mediaStart": 19.88,
+      "mediaEnd": 22.44,
+      "text": "And praying for referrals to show up."
+    },
+    {
+      "id": "vo-04a",
+      "start": 22.9,
+      "mediaStart": 23.13,
+      "mediaEnd": 24.34,
+      "text": "So what do we do?"
+    },
+    {
+      "id": "vo-04b",
+      "start": 24.28,
+      "mediaStart": 24.65,
+      "mediaEnd": 26.78,
+      "text": "More tools, more noise."
+    },
+    {
+      "id": "vo-05",
+      "start": 26.64,
+      "mediaStart": 27.2,
+      "mediaEnd": 29.5,
+      "text": "And zero meetings."
+    },
+    {
+      "id": "vo-06",
+      "start": 29.2,
+      "mediaStart": 29.85,
+      "mediaEnd": 33.08,
+      "text": "Because in B2B, nobody buys from a stranger."
+    },
+    {
+      "id": "vo-07",
+      "start": 32.66,
+      "mediaStart": 33.23,
+      "mediaEnd": 36.73,
+      "text": "People buy from someone they already know and already trust."
+    },
+    {
+      "id": "vo-08",
+      "start": 36.335,
+      "mediaStart": 36.78,
+      "mediaEnd": 39.4,
+      "text": "And right before they buy, they show it."
+    },
+    {
+      "id": "vo-09",
+      "start": 39.23,
+      "mediaStart": 39.75,
+      "mediaEnd": 41.08,
+      "text": "They visit your website,"
+    },
+    {
+      "id": "vo-10",
+      "start": 40.64,
+      "mediaStart": 41.1,
+      "mediaEnd": 42.25,
+      "text": "check out your profile,"
+    },
+    {
+      "id": "vo-11",
+      "start": 42.16,
+      "mediaStart": 42.26,
+      "mediaEnd": 43.07,
+      "text": "follow you,"
+    },
+    {
+      "id": "vo-12",
+      "start": 43.05,
+      "mediaStart": 43.14,
+      "mediaEnd": 44.72,
+      "text": "analyze your competitors."
+    },
+    {
+      "id": "vo-13",
+      "start": 45.24,
+      "mediaStart": 44.86,
+      "mediaEnd": 47.27,
+      "text": "Those are buying signals."
+    },
+    {
+      "id": "vo-14",
+      "start": 47.97,
+      "mediaStart": 47.45,
+      "mediaEnd": 49.4,
+      "text": "And nobody sees them."
+    },
+    {
+      "id": "vo-15",
+      "start": 50.02,
+      "mediaStart": 49.9,
+      "mediaEnd": 51.55,
+      "text": "That’s why we built Ploot,"
+    },
+    {
+      "id": "vo-16",
+      "start": 52.36,
+      "mediaStart": 51.58,
+      "mediaEnd": 56.29,
+      "text": "a new go-to-market system that turns your team into your best sales channel."
+    },
+    {
+      "id": "vo-17",
+      "start": 57.1,
+      "mediaStart": 56.3,
+      "mediaEnd": 59.91,
+      "text": "One. We turn your team’s knowledge into an audience."
+    },
+    {
+      "id": "vo-18",
+      "start": 61.88,
+      "mediaStart": 60.31,
+      "mediaEnd": 63.12,
+      "text": "Two. We detect every buying signal."
+    },
+    {
+      "id": "vo-19",
+      "start": 66.52,
+      "mediaStart": 63.4,
+      "mediaEnd": 67.94,
+      "text": "Three. We reach out to the lead at the right moment to book you a meeting."
+    },
+    {
+      "id": "vo-21",
+      "start": 71.152,
+      "mediaStart": 68.16,
+      "mediaEnd": 73.22,
+      "text": "Stop chasing cold leads and show up when they’re already ready to buy."
+    },
+    {
+      "id": "vo-22",
+      "start": 76.31,
+      "mediaStart": 73.55,
+      "mediaEnd": 76.199,
+      "text": "Book a demo and we’ll analyze your case."
+    },
+    {
+      "id": "vo-brand-end",
+      "start": 79.159091,
+      "mediaStart": 0.1,
+      "mediaEnd": 0.66,
+      "text": "Ploot.",
+      "source": ".media/audio/voice/voice_002.mp3",
+      "fadeIn": 0.01,
+      "fadeOut": 0.04
+    }
+  ]
+}

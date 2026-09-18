@@ -1,0 +1,24 @@
+{
+  "tape-rewind-short": {
+    "dur": 1.5,
+    "peak": 0,
+    "ext": "wav",
+    "fadeIn": 0.055,
+    "fadeOut": 0.16,
+    "sourceURL": "https://freesound.org/people/LuKaiX/sounds/700527/",
+    "license": "CC0",
+    "sourceSHA256": "9f7b06b8f64a4aa9667ad4c025cc9c7c7b6d48944d1459e986b55a225d5cb64f",
+    "operation": "atempo=1.227153,atrim=duration=1.5"
+  },
+  "calendar-air-natural": {
+    "dur": 2.021006,
+    "peak": 0,
+    "ext": "wav",
+    "fadeIn": 0.09,
+    "fadeOut": 0.13,
+    "sourceURL": "https://freesound.org/people/xkeril/sounds/701104/",
+    "license": "CC0",
+    "sourceSHA256": "791bf392615c81ef7b0fd1a92fa39b847241ae0f995669f22573763edbaef07b",
+    "operation": "areverse,atempo=1.146223,atrim=duration=2.021006"
+  }
+}

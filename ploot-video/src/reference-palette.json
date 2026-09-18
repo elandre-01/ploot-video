@@ -1,0 +1,279 @@
+{
+  "motion-glide": {
+    "dur": 0.4,
+    "peak": 0.131,
+    "ext": "wav",
+    "source": "whoosh.mp3",
+    "sourceSHA256": "c2efd9d902a59bf9ec5019035d7deadd17762136896b6e3cb6dd99ea50997a30",
+    "rmsDb": -21.11,
+    "peakDb": -6.02
+  },
+  "motion-flick": {
+    "dur": 0.22,
+    "peak": 0.0581,
+    "ext": "wav",
+    "source": "whoosh.mp3",
+    "sourceSHA256": "c2efd9d902a59bf9ec5019035d7deadd17762136896b6e3cb6dd99ea50997a30",
+    "rmsDb": -20.92,
+    "peakDb": -6.19
+  },
+  "motion-pull": {
+    "dur": 0.36,
+    "peak": 0.2164,
+    "ext": "wav",
+    "source": "whoosh.mp3",
+    "sourceSHA256": "c2efd9d902a59bf9ec5019035d7deadd17762136896b6e3cb6dd99ea50997a30",
+    "rmsDb": -20.92,
+    "peakDb": -6.5
+  },
+  "ui-dismiss": {
+    "dur": 0.266667,
+    "peak": 0.0994,
+    "ext": "wav",
+    "source": "key-press.mp3",
+    "sourceSHA256": "bcc892df0898bf466162f14233c3e92a8c1ea351f6affd8a3a7e56c9a760bb72",
+    "rmsDb": -27.96,
+    "peakDb": -6.02
+  },
+  "type-detail": {
+    "dur": 0.48,
+    "peak": 0.2548,
+    "ext": "wav",
+    "source": "typing.mp3",
+    "sourceSHA256": "944160652faeb7b32acc9341ede4d735a5c9a4ce3fe8509ef7eab91efb430487",
+    "rmsDb": -32.57,
+    "peakDb": -6.02
+  },
+  "glitch-rewind": {
+    "dur": 0.42,
+    "peak": 0.2024,
+    "ext": "wav"
+  },
+  "glitch-tick": {
+    "dur": 0.105,
+    "peak": 0.06273,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 0.23,
+      "sourceDuration": 0.105,
+      "speed": 1,
+      "bandHz": [
+        650,
+        5500
+      ],
+      "grainPeriod": 0.025
+    },
+    "rmsDb": -26.254863380325787,
+    "peakDb": -5.679933127304016
+  },
+  "glitch-burst": {
+    "dur": 0.235,
+    "peak": 0.17254,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 0.48,
+      "sourceDuration": 0.235,
+      "speed": 1,
+      "bandHz": [
+        400,
+        5200
+      ],
+      "grainPeriod": 0.031
+    },
+    "rmsDb": -22.857473630941698,
+    "peakDb": -5.679933127304016
+  },
+  "glitch-scan": {
+    "dur": 0.32,
+    "peak": 0.14346,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 1.14,
+      "sourceDuration": 0.32,
+      "speed": 1,
+      "bandHz": [
+        330,
+        4600
+      ],
+      "grainPeriod": 0.041
+    },
+    "rmsDb": -20.74892259947143,
+    "peakDb": -5.679933127304016
+  },
+  "glitch-drop": {
+    "dur": 0.299979,
+    "peak": 0.00527,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 1.94,
+      "sourceDuration": 0.24,
+      "speed": 0.8,
+      "bandHz": [
+        230,
+        3800
+      ],
+      "grainPeriod": 0.039
+    },
+    "rmsDb": -33.4669226057879,
+    "peakDb": -5.679933127304016
+  },
+  "glitch-lock": {
+    "dur": 0.134771,
+    "peak": 0.11623,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 0.12,
+      "sourceDuration": 0.155,
+      "speed": 1.15,
+      "bandHz": [
+        380,
+        4700
+      ],
+      "grainPeriod": 0.023
+    },
+    "rmsDb": -29.685111338886443,
+    "peakDb": -5.679933127304016
+  },
+  "glitch-air-tick": {
+    "dur": 0.115167,
+    "peak": 0.03556,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 0.23,
+      "sourceDuration": 0.19,
+      "speed": 1.65,
+      "pitchSemitones": 8.669592293653093,
+      "bandHz": [
+        1200,
+        10500
+      ],
+      "gate": "none",
+      "attackSeconds": 0.01,
+      "releaseSeconds": 0.04606666666666667
+    },
+    "rmsDb": -26.924077453818683,
+    "peakDb": -6.375175252488256
+  },
+  "glitch-air-burst": {
+    "dur": 0.293333,
+    "peak": 0.12142,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 0.47,
+      "sourceDuration": 0.44,
+      "speed": 1.5,
+      "pitchSemitones": 7.019550008653875,
+      "bandHz": [
+        1050,
+        10000
+      ],
+      "gate": "none",
+      "attackSeconds": 0.01,
+      "releaseSeconds": 0.11733333333333335
+    },
+    "rmsDb": -24.376759002385363,
+    "peakDb": -6.375175252488256
+  },
+  "glitch-air-scan": {
+    "dur": 0.4375,
+    "peak": 0.0116,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 0.94,
+      "sourceDuration": 0.7,
+      "speed": 1.6,
+      "pitchSemitones": 8.136862861351652,
+      "bandHz": [
+        1150,
+        11000
+      ],
+      "gate": "none",
+      "attackSeconds": 0.01,
+      "releaseSeconds": 0.125
+    },
+    "rmsDb": -22.664484140510815,
+    "peakDb": -6.375175252488256
+  },
+  "glitch-air-drop": {
+    "dur": 0.335729,
+    "peak": 0.01429,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 1.84,
+      "sourceDuration": 0.47,
+      "speed": 1.4,
+      "pitchSemitones": 5.8251219260429,
+      "bandHz": [
+        1150,
+        9500
+      ],
+      "gate": "none",
+      "attackSeconds": 0.01,
+      "releaseSeconds": 0.125
+    },
+    "rmsDb": -30.858976415585403,
+    "peakDb": -6.375175252488256
+  },
+  "glitch-air-lock": {
+    "dur": 0.2,
+    "peak": 0.111,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 0.1,
+      "sourceDuration": 0.34,
+      "speed": 1.7,
+      "pitchSemitones": 9.186416956355725,
+      "bandHz": [
+        1150,
+        10000
+      ],
+      "gate": "none",
+      "attackSeconds": 0.01,
+      "releaseSeconds": 0.08000000000000002
+    },
+    "rmsDb": -29.449018416655896,
+    "peakDb": -6.375175252488256
+  },
+  "glitch-air-rewind": {
+    "dur": 0.446667,
+    "peak": 0.37335,
+    "ext": "wav",
+    "source": "glitch-3.mp3",
+    "sourceSHA256": "7ebe61cfd0d69a2d35d9ee3a88c26025101e999d5cc6bfb2df410f820b433042",
+    "recipe": {
+      "offset": 1.08,
+      "sourceDuration": 0.67,
+      "speed": 1.5,
+      "pitchSemitones": 7.019550008653875,
+      "bandHz": [
+        1150,
+        10000
+      ],
+      "gate": "none",
+      "attackSeconds": 0.01,
+      "releaseSeconds": 0.125
+    },
+    "rmsDb": -34.257268310916054,
+    "peakDb": -6.375175252488257
+  }
+}

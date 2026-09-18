@@ -1,0 +1,474 @@
+{
+  "original": "/Users/elenaandreromero-nch/Desktop/PLOOT/stems-zip-Grisly Brill - Squad Kill-wav (Artlist · Grisly Brill · Ready for Action · 110 BPM · Cm · stems)",
+  "duration": 81.139091,
+  "bpm": 110,
+  "revision": "V2 · más energía y todo al pulso: cada etapa arranca en un primer tiempo del tema exactamente en su anclaje (chill = piano desde su primer tiempo con el vídeo; medio = drop B al salir del silencio; fuerte = drop final/clímax en el burst de Ploot; resolución = golpe final sobre el logo) y una capa de acentos musicales sacados de los stems (orquesta, impactos, batería) en los cortes y rótulos fuertes. Niveles +2/+3 dB sobre V1, carve más suave (0,25).",
+  "segments": [
+    {
+      "id": "squad2-chill",
+      "src": ".media/audio/bgm/squad2-chill.wav",
+      "start": 0,
+      "duration": 27.22,
+      "volume": 3.35,
+      "sourceOffset": 0,
+      "songTime": 0.22,
+      "stems": {
+        "piano": 0,
+        "syn1": -2,
+        "syn2": -2,
+        "orch": -4,
+        "gtr": -8
+      },
+      "fileLUFS": -35.5,
+      "headroomDb": -9,
+      "note": "chill · el piano arranca en su primer tiempo con el vídeo; la subida del tema (17,7) crece hasta el silencio",
+      "toneHz": 9000,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.05,
+            "v": 1
+          },
+          {
+            "t": 27.07,
+            "v": 1
+          },
+          {
+            "t": 27.22,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "squad2-mid",
+      "src": ".media/audio/bgm/squad2-mid.wav",
+      "start": 29.272727,
+      "duration": 18.818182,
+      "volume": 1.365,
+      "sourceOffset": 0,
+      "songTime": 52.58,
+      "stems": {
+        "piano": 0,
+        "syn1": 0,
+        "syn2": 0,
+        "orch": 0,
+        "gtr": -3,
+        "drum": 0,
+        "bass1": 0,
+        "bass2": 0,
+        "sfx": 0
+      },
+      "fileLUFS": -20.2,
+      "headroomDb": -9,
+      "note": "medio · el drop B (52,58) golpea al salir del silencio de «Cero reuniones»; sección completa y arranque de la sección pesada (70,02 → 46,7)",
+      "toneHz": 14000,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.01,
+            "v": 1
+          },
+          {
+            "t": 18.668,
+            "v": 1
+          },
+          {
+            "t": 18.818,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "squad2-high",
+      "src": ".media/audio/bgm/squad2-high.wav",
+      "start": 51.090909,
+      "duration": 27.818182,
+      "volume": 2.317,
+      "sourceOffset": 0,
+      "songTime": 124.58,
+      "stems": {
+        "piano": 0,
+        "syn1": 0,
+        "syn2": 0,
+        "orch": 0,
+        "gtr": 0,
+        "drum": 0,
+        "bass1": 0,
+        "bass2": 0,
+        "sfx": 0
+      },
+      "fileLUFS": -17.8,
+      "headroomDb": -9,
+      "note": "fuerte · el drop final del tema (124,58, clímax) en el burst de Ploot; sus golpes internos caen en 55,8 · 60,2 · 64,4 · 68,9 (enviar) · 73,3 (web)",
+      "toneHz": 16000,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.005,
+            "v": 1
+          },
+          {
+            "t": 27.768,
+            "v": 1
+          },
+          {
+            "t": 27.818,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "squad2-end",
+      "src": ".media/audio/bgm/squad2-end.wav",
+      "start": 78.909091,
+      "duration": 2.23,
+      "volume": 3.126,
+      "sourceOffset": 0,
+      "songTime": 160.05,
+      "stems": {
+        "piano": 0,
+        "syn1": 0,
+        "syn2": 0,
+        "orch": 0,
+        "gtr": 0,
+        "drum": 0,
+        "bass1": 0,
+        "bass2": 0,
+        "sfx": 0
+      },
+      "fileLUFS": -20.4,
+      "headroomDb": -4,
+      "note": "resolución · golpe final del tema sobre el logo",
+      "toneHz": 16000,
+      "stageGainDb": 0,
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 0
+          },
+          {
+            "t": 0.005,
+            "v": 1
+          },
+          {
+            "t": 1.98,
+            "v": 1
+          },
+          {
+            "t": 2.23,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-01",
+      "src": ".media/audio/bgm/hit-orch-stab-A.wav",
+      "start": 30.261636,
+      "duration": 1.6,
+      "volume": 0.55,
+      "sourceOffset": 0,
+      "note": "acento musical · corte a blanco «Nadie compra a un desconocido»",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 1
+          },
+          {
+            "t": 1.6,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-02",
+      "src": ".media/audio/bgm/hit-sfx-impact-B.wav",
+      "start": 32.723182,
+      "duration": 1.4,
+      "volume": 0.5,
+      "sourceOffset": 0,
+      "note": "acento musical · naranja «La gente compra»",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.2,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-03",
+      "src": ".media/audio/bgm/hit-sfx-impact-A.wav",
+      "start": 35.858636,
+      "duration": 1.6,
+      "volume": 0.55,
+      "sourceOffset": 0,
+      "note": "acento musical · corte a negro «Y justo antes de comprar» (con su swell)",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 1
+          },
+          {
+            "t": 1.6,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-04",
+      "src": ".media/audio/bgm/hit-drum-hard.wav",
+      "start": 41.702909,
+      "duration": 0.7,
+      "volume": 0.5,
+      "sourceOffset": 0,
+      "note": "acento musical · clic en Seguir",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 0.5,
+            "v": 1
+          },
+          {
+            "t": 0.7,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-05",
+      "src": ".media/audio/bgm/hit-orch-stab-A.wav",
+      "start": 45.261636,
+      "duration": 1.6,
+      "volume": 0.6,
+      "sourceOffset": 0,
+      "note": "acento musical · naranja «Son señales de compra»",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 1
+          },
+          {
+            "t": 1.6,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-06",
+      "src": ".media/audio/bgm/hit-sfx-impact-C.wav",
+      "start": 48.013909,
+      "duration": 1.4,
+      "volume": 0.5,
+      "sourceOffset": 0,
+      "note": "acento musical · «Y nadie las ve» · stinger antes del silencio",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.2,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-07",
+      "src": ".media/audio/bgm/hit-orch-stab-B.wav",
+      "start": 57.066636,
+      "duration": 1.6,
+      "volume": 0.5,
+      "sourceOffset": 0,
+      "note": "acento musical · «Uno»",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 1
+          },
+          {
+            "t": 1.6,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-08",
+      "src": ".media/audio/bgm/hit-orch-stab-B.wav",
+      "start": 61.703,
+      "duration": 1.6,
+      "volume": 0.5,
+      "sourceOffset": 0,
+      "note": "acento musical · «Dos»",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 1
+          },
+          {
+            "t": 1.6,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-09",
+      "src": ".media/audio/bgm/hit-orch-stab-B.wav",
+      "start": 66.339364,
+      "duration": 1.6,
+      "volume": 0.5,
+      "sourceOffset": 0,
+      "note": "acento musical · «Tres»",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 1
+          },
+          {
+            "t": 1.6,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-10",
+      "src": ".media/audio/bgm/hit-sfx-impact-B.wav",
+      "start": 73.086818,
+      "duration": 1.4,
+      "volume": 0.45,
+      "sourceOffset": 0,
+      "note": "acento musical · vuelve la web del cierre",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 1.2,
+            "v": 1
+          },
+          {
+            "t": 1.4,
+            "v": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "stab-11",
+      "src": ".media/audio/bgm/hit-drum-hard.wav",
+      "start": 77.702909,
+      "duration": 0.7,
+      "volume": 0.5,
+      "sourceOffset": 0,
+      "note": "acento musical · clic en Agenda una demo",
+      "lane": {
+        "target": "volume",
+        "points": [
+          {
+            "t": 0,
+            "v": 1
+          },
+          {
+            "t": 0.5,
+            "v": 1
+          },
+          {
+            "t": 0.7,
+            "v": 0
+          }
+        ]
+      }
+    }
+  ]
+}

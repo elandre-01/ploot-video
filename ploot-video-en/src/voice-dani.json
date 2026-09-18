@@ -1,0 +1,191 @@
+{
+  "source": "assets/vo-dani.mp3",
+  "name": "Dani \u00b7 Hurried, Dynamic and Engaging",
+  "sourceDuration": 83.14775,
+  "playbackRate": 1,
+  "timingBasis": "final composition seconds",
+  "clips": [
+    {
+      "id": "vo-01",
+      "start": 0,
+      "mediaStart": 0,
+      "mediaEnd": 4.24,
+      "text": "Ahora mismo hay personas decidiendo comprar justo lo que t\u00fa vendes."
+    },
+    {
+      "id": "vo-02a",
+      "start": 5,
+      "mediaStart": 4.38,
+      "mediaEnd": 7.15,
+      "text": "Entran a tu web, leen tu contenido, te comparan."
+    },
+    {
+      "id": "vo-02b",
+      "start": 7.93,
+      "mediaStart": 7.5,
+      "mediaEnd": 8.28,
+      "text": "Y t\u00fa"
+    },
+    {
+      "id": "vo-02c",
+      "start": 8.82,
+      "mediaStart": 8.49,
+      "mediaEnd": 12.6,
+      "text": "est\u00e1s perdiendo mucho dinero sin enterarte."
+    },
+    {
+      "id": "vo-02d",
+      "start": 13.18,
+      "mediaStart": 13.34,
+      "mediaEnd": 16.09,
+      "text": "Porque sigues vendiendo como hace cinco a\u00f1os."
+    },
+    {
+      "id": "vo-02e",
+      "start": 15.95,
+      "mediaStart": 16.57,
+      "mediaEnd": 18.66,
+      "text": "Mensajes en fr\u00edo que nadie abre."
+    },
+    {
+      "id": "vo-03",
+      "start": 18.98,
+      "mediaStart": 19.84,
+      "mediaEnd": 22.4,
+      "text": "Y rezar para que lleguen referidos."
+    },
+    {
+      "id": "vo-04a",
+      "start": 21.56,
+      "mediaStart": 23.44,
+      "mediaEnd": 24.23,
+      "text": "\u00bfY qu\u00e9 hacemos?"
+    },
+    {
+      "id": "vo-04b",
+      "start": 22.6,
+      "mediaStart": 24.68,
+      "mediaEnd": 26.49,
+      "text": "M\u00e1s herramientas, m\u00e1s ruido."
+    },
+    {
+      "id": "vo-05",
+      "start": 25.54,
+      "mediaStart": 27.29,
+      "mediaEnd": 28.94,
+      "text": "Y cero reuniones."
+    },
+    {
+      "id": "vo-06",
+      "start": 27.54,
+      "mediaStart": 29.69,
+      "mediaEnd": 32.83,
+      "text": "Porque en B2B nadie compra a un desconocido."
+    },
+    {
+      "id": "vo-07",
+      "start": 30.803,
+      "mediaStart": 33.16,
+      "mediaEnd": 36.99,
+      "text": "La gente compra a quien ya conoce y a quien ya conf\u00eda."
+    },
+    {
+      "id": "vo-08",
+      "start": 35.166,
+      "mediaStart": 37.65,
+      "mediaEnd": 41.065,
+      "text": "Y justo antes de comprar, lo demuestran."
+    },
+    {
+      "id": "vo-09",
+      "start": 38.99,
+      "mediaStart": 41.56,
+      "mediaEnd": 42.58,
+      "text": "Entran a tu web,"
+    },
+    {
+      "id": "vo-10",
+      "start": 40.08,
+      "mediaStart": 42.7,
+      "mediaEnd": 43.85,
+      "text": "visitan tu perfil,"
+    },
+    {
+      "id": "vo-11",
+      "start": 41.987,
+      "mediaStart": 44.07,
+      "mediaEnd": 44.83,
+      "text": "te siguen,"
+    },
+    {
+      "id": "vo-12",
+      "start": 43.35,
+      "mediaStart": 44.965,
+      "mediaEnd": 46.46,
+      "text": "analizan a tu competencia."
+    },
+    {
+      "id": "vo-13",
+      "start": 45.536,
+      "mediaStart": 46.94,
+      "mediaEnd": 48.94,
+      "text": "Son se\u00f1ales de compra."
+    },
+    {
+      "id": "vo-14",
+      "start": 48.26,
+      "mediaStart": 49.57,
+      "mediaEnd": 51.04,
+      "text": "Y nadie las ve."
+    },
+    {
+      "id": "vo-15",
+      "start": 49.98,
+      "mediaStart": 52.14,
+      "mediaEnd": 53.61,
+      "text": "Por eso hemos creado Ploot,"
+    },
+    {
+      "id": "vo-16",
+      "start": 52.62,
+      "mediaStart": 53.95,
+      "mediaEnd": 60.38,
+      "text": "un nuevo sistema de go-to-market que convierte a tu equipo en tu mejor canal de ventas."
+    },
+    {
+      "id": "vo-17",
+      "start": 59.168,
+      "mediaStart": 61.19,
+      "mediaEnd": 64.98,
+      "text": "Uno. Convertimos el conocimiento de tu equipo en audiencia."
+    },
+    {
+      "id": "vo-18",
+      "start": 64.628,
+      "mediaStart": 65.47,
+      "mediaEnd": 68.38,
+      "text": "Dos. Detectamos cada se\u00f1al de compra."
+    },
+    {
+      "id": "vo-19",
+      "start": 70.084,
+      "mediaStart": 68.98,
+      "mediaEnd": 73.82,
+      "text": "Tres. Contactamos al lead en el momento justo para agendarte reuni\u00f3n."
+    },
+    {
+      "id": "vo-21",
+      "start": 74.995272,
+      "mediaStart": 74.8,
+      "mediaEnd": 79.98,
+      "text": "Deja de perseguir clientes fr\u00edos y aparece cuando ya quieren comprarte."
+    },
+    {
+      "id": "vo-22",
+      "start": 80.350272,
+      "mediaStart": 80.81,
+      "mediaEnd": 83.147,
+      "text": "Agenda una demo y analizamos tu caso."
+    }
+  ]
+}

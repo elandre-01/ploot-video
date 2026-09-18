@@ -1,0 +1,63 @@
+# .media · 60 assets
+
+id         type   dur   dims   path                              description
+voice_001  voice  —     —      .media/audio/voice/voice_001.mp3  ElevenLabs_2026-09-15T19_04_24_Luke C_pvc_sp100_s50_sb75_v3.mp3
+sfx_001    sfx    —     —      .media/audio/sfx/sfx_001.wav      motion-glide.wav
+sfx_002    sfx    —     —      .media/audio/sfx/sfx_002.wav      motion-flick.wav
+sfx_003    sfx    —     —      .media/audio/sfx/sfx_003.wav      motion-pull.wav
+sfx_004    sfx    —     —      .media/audio/sfx/sfx_004.wav      ui-dismiss.wav
+sfx_005    sfx    —     —      .media/audio/sfx/sfx_005.wav      type-detail.wav
+bgm_001    bgm    —     —      .media/audio/bgm/bgm_001.wav      groove-en-intro-a.wav
+bgm_002    bgm    —     —      .media/audio/bgm/bgm_002.wav      groove-en-intro-b.wav
+bgm_003    bgm    —     —      .media/audio/bgm/bgm_003.wav      groove-en-intro-c.wav
+bgm_004    bgm    —     —      .media/audio/bgm/bgm_004.wav      groove-en-drive.wav
+bgm_005    bgm    —     —      .media/audio/bgm/bgm_005.wav      groove-en-trust.wav
+bgm_006    bgm    —     —      .media/audio/bgm/bgm_006.wav      groove-en-reveal.wav
+bgm_007    bgm    —     —      .media/audio/bgm/bgm_007.wav      groove-en-logo.wav
+sfx_006    sfx    —     —      .media/audio/sfx/sfx_006.wav      glitch-tick.wav
+sfx_007    sfx    —     —      .media/audio/sfx/sfx_007.wav      glitch-burst.wav
+sfx_008    sfx    —     —      .media/audio/sfx/sfx_008.wav      glitch-scan.wav
+sfx_009    sfx    —     —      .media/audio/sfx/sfx_009.wav      glitch-drop.wav
+sfx_010    sfx    —     —      .media/audio/sfx/sfx_010.wav      glitch-lock.wav
+bgm_008    bgm    —     —      .media/audio/bgm/bgm_008.wav      groove-v2-en-opening.wav
+bgm_009    bgm    —     —      .media/audio/bgm/bgm_009.wav      groove-v2-en-development.wav
+bgm_010    bgm    —     —      .media/audio/bgm/bgm_010.wav      groove-v2-en-reprise.wav
+bgm_011    bgm    —     —      .media/audio/bgm/bgm_011.wav      groove-v2-en-steps-close.wav
+bgm_012    bgm    —     —      .media/audio/bgm/bgm_012.wav      groove-v2-en-resolution.wav
+sfx_011    sfx    —     —      .media/audio/sfx/sfx_011.wav      glitch-air-tick.wav
+sfx_012    sfx    —     —      .media/audio/sfx/sfx_012.wav      glitch-air-burst.wav
+sfx_013    sfx    —     —      .media/audio/sfx/sfx_013.wav      glitch-air-scan.wav
+sfx_014    sfx    —     —      .media/audio/sfx/sfx_014.wav      glitch-air-drop.wav
+sfx_015    sfx    —     —      .media/audio/sfx/sfx_015.wav      glitch-air-lock.wav
+sfx_016    sfx    —     —      .media/audio/sfx/sfx_016.wav      glitch-air-rewind.wav
+image_001  image  —     —      .media/images/image_001.png       _Banner LinkedIn Ploot landing.png
+bgm_013    bgm    —     —      .media/audio/bgm/bgm_013.wav      music-v4-chill.wav
+bgm_014    bgm    —     —      .media/audio/bgm/bgm_014.wav      music-v4-bonkers.wav
+bgm_015    bgm    —     —      .media/audio/bgm/bgm_015.wav      music-v4-resolve.wav
+voice_002  voice  —     —      .media/audio/voice/voice_002.mp3  ploot en.mp3
+sfx_017    sfx    —     —      .media/audio/sfx/sfx_017.wav      soft-tap.wav
+sfx_018    sfx    —     —      .media/audio/sfx/sfx_018.wav      soft-pulse.wav
+sfx_019    sfx    —     —      .media/audio/sfx/sfx_019.wav      soft-slide.wav
+sfx_020    sfx    —     —      .media/audio/sfx/sfx_020.wav      soft-dismiss.wav
+sfx_021    sfx    —     —      .media/audio/sfx/sfx_021.wav      soft-lock.wav
+sfx_022    sfx    —     —      .media/audio/sfx/sfx_022.wav      soft-shuffle.wav
+sfx_023    sfx    —     —      .media/audio/sfx/sfx_023.wav      soft-message.wav
+sfx_024    sfx    —     —      .media/audio/sfx/sfx_024.wav      paper-tap.wav
+sfx_025    sfx    —     —      .media/audio/sfx/sfx_025.wav      paper-slide.wav
+sfx_026    sfx    —     —      .media/audio/sfx/sfx_026.wav      paper-turn.wav
+sfx_027    sfx    —     —      .media/audio/sfx/sfx_027.wav      paper-fan.wav
+sfx_028    sfx    —     —      .media/audio/sfx/sfx_028.wav      felt-click.wav
+sfx_029    sfx    —     —      .media/audio/sfx/sfx_029.wav      air-pass.wav
+sfx_030    sfx    —     —      .media/audio/sfx/sfx_030.wav      warm-seat.wav
+sfx_031    sfx    —     —      .media/audio/sfx/sfx_031.wav      warm-knock.wav
+sfx_032    sfx    —     —      .media/audio/sfx/sfx_032.wav      warm-tick.wav
+sfx_033    sfx    —     —      .media/audio/sfx/sfx_033.wav      warm-swish.wav
+sfx_034    sfx    —     —      .media/audio/sfx/sfx_034.wav      warm-away.wav
+sfx_035    sfx    —     —      .media/audio/sfx/sfx_035.wav      warm-rewind.wav
+sfx_036    sfx    —     —      .media/audio/sfx/sfx_036.wav      warm-calendar.wav
+sfx_037    sfx    —     —      .media/audio/sfx/sfx_037.wav      vhs-rewind-real.wav
+sfx_038    sfx    —     —      .media/audio/sfx/sfx_038.wav      calendar-air-long.wav
+sfx_039    sfx    —     —      .media/audio/sfx/sfx_039.wav      vhs-rewind-real.wav
+sfx_040    sfx    —     —      .media/audio/sfx/sfx_040.wav      calendar-air-long.wav
+sfx_041    sfx    —     —      .media/audio/sfx/sfx_041.wav      tape-rewind-short.wav
+sfx_042    sfx    —     —      .media/audio/sfx/sfx_042.wav      calendar-air-natural.wav
