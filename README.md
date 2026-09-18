@@ -8,6 +8,8 @@ Dos proyectos con la misma animación y distinto idioma:
 | `ploot-video/` | Español | toma en español (`src/voice-es.json`) |
 | `ploot-video-en/` | Inglés | Luke C (`src/voice-luke.json`) |
 
+La carpeta `video-lanzamiento-ploot/` es una skill de Claude Code con el motor y el lenguaje de movimiento de este vídeo, para crear otros con el mismo estilo (ver su `SKILL.md`; se instala enlazándola en `~/.claude/skills/`).
+
 Cada proyecto tiene su propio `README.md`, `MOTION.md` (lenguaje de movimiento) y `STORYBOARD.md`.
 
 ## Construir y previsualizar

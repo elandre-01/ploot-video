@@ -1,0 +1,11 @@
+{
+  "bpm": 110,
+  "duration": 12.0,
+  "musicStart": 0,
+  "revision": "Anclajes identidad: el reloj de autoría y el final coinciden. Al elegir música, mover el campo `new` de cada ancla al pulso más cercano y dejar `old` intacto: el remapeo arrastra movimiento, voz y efectos a la vez.",
+  "anchors": [
+    { "old": 0, "new": 0, "label": "inicio", "sync": false },
+    { "old": 12.0, "new": 12.0, "label": "fin", "sync": false }
+  ],
+  "calendar": { "start": 0, "groupInterval": 0.2727, "groupSize": 4, "duration": 0.3 }
+}
