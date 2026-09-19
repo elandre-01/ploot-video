@@ -41,7 +41,7 @@ export const CARDS5 = [
   { p: PEOPLE.pablo,  s: "Comparte tu post",        t: "2m",  x: 40,   y: 470, r: 5 },
   { p: PEOPLE.elena,  s: "Analiza tu competencia",  t: "3m",  x: 1390, y: 476, r: -4 },
   { p: PEOPLE.ivan,   s: "Busca tu solución",       t: "4m",  x: 160,  y: 838, r: -5 },
-  { p: PEOPLE.nuria,  s: "Descarga tu caso",        t: "5m",  x: 760,  y: 866, r: 4 },
+  { p: PEOPLE.marta,  s: "Descarga tu caso",        t: "5m",  x: 760,  y: 866, r: 4 },
   { p: PEOPLE.hugo,   s: "Compara precios",         t: "6m",  x: 1360, y: 842, r: -6 },
 ];
 export const cards5 = (prefix) => CARDS5.map((c, i) => sigCard(`${prefix}-${i}`, c.p, c.s, { x: c.x, y: c.y, rot: c.r, time: c.t, variant: "dot compact" })).join("");

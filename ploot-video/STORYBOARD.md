@@ -1,6 +1,6 @@
 ---
 format: 1920x1080
-duration: 81.139091s
+duration: 80.549091s
 message: "Ploot detecta las señales de compra que ya existen y convierte a tu equipo en tu mejor canal de ventas"
 arc: Hook (pérdida) → Dolor → Falsa solución → Insight → Señales → Reveal → 3 pasos → CTA
 audience: equipos comerciales y fundadores B2B que llegan a la landing de Ploot

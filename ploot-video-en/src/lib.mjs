@@ -20,7 +20,7 @@ export const AV = (n) => `assets/avatars/av${String(n).padStart(2, "0")}.jpg`;
 export const PEOPLE = {
   marta:   { name: "Marta Rubio",   role: "Head of Growth · Madrid",          av: 27 },
   daniel:  { name: "Daniel Sáez",   role: "Sales Director · Valencia",    av: 4 },
-  lucia:   { name: "Lucía Ferrer",  role: "Procurement",                          av: 23 },
+  lucia:   { name: "Lucía Ferrer",  role: "Procurement",                          av: 29 },
   pablo:   { name: "Pablo Durán",   role: "CEO",                              av: 10 },
   elena:   { name: "Elena Ruiz",    role: "Marketing",                        av: 19 },
   ivan:    { name: "Iván Costa",    role: "Operations",                      av: 12 },
@@ -37,6 +37,7 @@ export const PEOPLE = {
   pedro:   { name: "Pedro Duarte",  role: "CEO · Marlo",                      av: 18 },
   sofia:   { name: "Sofía Marín",   role: "Marketing Director · Ondas",   av: 23 },
   irene:   { name: "Irene Salas",   role: "Operations Director · Kappa", av: 1 },
+  adrian:  { name: "Adrián Vega",   role: "Sales Director · Talia",       av: 30 },
 };
 
 // ---------- kinetic text ----------

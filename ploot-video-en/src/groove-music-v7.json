@@ -1,9 +1,9 @@
 {
   "original": "/Users/elenaandreromero-nch/Desktop/PLOOT/Groove_Theory_2026-09-16T070005 (2).wav",
   "sourceSHA256": "0ead704c9039ae98496435e467ba1001e7857665423b030797d97a5c2431180b",
-  "duration": 81.139091,
+  "duration": 80.549091,
   "bpm": 110,
-  "revision": "V7: three intensity stages, unchanged narrative silence positions, progressive bandwidth and level",
+  "revision": "V7: three intensity stages, unchanged narrative silence positions, progressive bandwidth and level · V21: el tramo posterior a las tarjetas se adelantó 0,59 s; la colocación musical hay que rehacerla al elegir pista definitiva.",
   "segments": [
     {
       "id": "music-groove-v2-opening",
@@ -12,7 +12,7 @@
       "duration": 27.219124,
       "volume": 0.2,
       "sourceOffset": 0,
-      "note": "Groove Theory (2) \u00b7 original development \u00b7 opening",
+      "note": "Groove Theory (2) · original development · opening",
       "lane": {
         "target": "volume",
         "points": [
@@ -60,7 +60,7 @@
       "duration": 18.818182,
       "volume": 0.3,
       "sourceOffset": 23.592727,
-      "note": "Groove Theory (2) \u00b7 original development \u00b7 development",
+      "note": "Groove Theory (2) · original development · development",
       "lane": {
         "target": "volume",
         "points": [
@@ -92,11 +92,11 @@
     {
       "id": "music-groove-v2-reprise",
       "src": ".media/audio/bgm/bgm_010.wav",
-      "start": 51.090909,
+      "start": 50.500909,
       "duration": 11.009091,
       "volume": 0.66,
       "sourceOffset": 48.005,
-      "note": "Groove Theory (2) \u00b7 original development \u00b7 reprise",
+      "note": "Groove Theory (2) · original development · reprise",
       "lane": {
         "target": "volume",
         "points": [
@@ -124,11 +124,11 @@
     {
       "id": "music-groove-v2-steps-close",
       "src": ".media/audio/bgm/bgm_011.wav",
-      "start": 62.0,
+      "start": 61.41,
       "duration": 16.944091,
       "volume": 0.6,
       "sourceOffset": 66.005909,
-      "note": "Groove Theory (2) \u00b7 original development \u00b7 steps-close",
+      "note": "Groove Theory (2) · original development · steps-close",
       "lane": {
         "target": "volume",
         "points": [
@@ -156,11 +156,11 @@
     {
       "id": "music-groove-v2-resolution",
       "src": ".media/audio/bgm/bgm_012.wav",
-      "start": 78.909091,
+      "start": 78.319091,
       "duration": 2.23,
       "volume": 0.42,
       "sourceOffset": 82.915,
-      "note": "Groove Theory (2) \u00b7 original development \u00b7 resolution",
+      "note": "Groove Theory (2) · original development · resolution",
       "lane": {
         "target": "volume",
         "points": [

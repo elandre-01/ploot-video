@@ -1,10 +1,10 @@
 {
   "bpm": 110,
-  "beatOrigin": 23.0,
+  "beatOrigin": 23,
   "sourceBeatPhase": 0,
   "source": "assets/music/high-energy-bad-attitude.mp3",
-  "musicStart": 23.0,
-  "duration": 81.139091,
+  "musicStart": 23,
+  "duration": 80.549091,
   "anchors": [
     {
       "old": 0,
@@ -104,7 +104,7 @@
     },
     {
       "old": 20.35,
-      "new": 23.0,
+      "new": 23,
       "label": "scene-boundary",
       "sync": false
     },
@@ -143,7 +143,7 @@
       "sync": false
     },
     {
-      "old": 28.0,
+      "old": 28,
       "new": 31.181818,
       "label": "leido",
       "sync": true,
@@ -171,7 +171,7 @@
     },
     {
       "old": 35.81,
-      "new": 38.0,
+      "new": 38,
       "label": "lo-demuestran",
       "sync": true,
       "subdivision": 2
@@ -213,241 +213,241 @@
     },
     {
       "old": 47.16,
-      "new": 48.090909,
+      "new": 47.5,
       "label": "nadie-las-ve",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 48.7,
-      "new": 50.0,
+      "new": 49.41,
       "label": "scene-boundary",
       "sync": false
     },
     {
       "old": 49.88,
-      "new": 51.090909,
+      "new": 50.500909,
       "label": "reveal-ploot",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 51.2,
-      "new": 52.454545,
+      "new": 51.864545,
       "label": "sistema",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 53.2,
-      "new": 54.363636,
+      "new": 53.773636,
       "label": "equipo",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 55.6,
-      "new": 56.272727,
+      "new": 55.682727,
       "label": "convergencia",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 56.77,
-      "new": 57.363636,
+      "new": 56.773636,
       "label": "scene-boundary",
       "sync": false
     },
     {
       "old": 57.72,
-      "new": 57.909091,
+      "new": 57.319091,
       "label": "dashboard",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 59.27,
-      "new": 59.0,
+      "new": 58.41,
       "label": "clic-dashboard",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 59.87,
-      "new": 59.545455,
+      "new": 58.955455,
       "label": "perfil-audiencia",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 61.37,
-      "new": 61.181818,
+      "new": 60.591818,
       "label": "top-voice",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 62.57,
-      "new": 62.0,
+      "new": 61.41,
       "label": "dos",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 63.57,
-      "new": 62.818182,
+      "new": 62.228182,
       "label": "lista-leads",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 64.97,
-      "new": 63.909091,
+      "new": 63.319091,
       "label": "ordena-leads",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 66.22,
-      "new": 65.0,
+      "new": 64.41,
       "label": "momento-ideal",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 67.57,
-      "new": 66.636364,
+      "new": 66.046364,
       "label": "tres",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 68.52,
-      "new": 67.181818,
+      "new": 66.591818,
       "label": "conversacion",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 69.17,
-      "new": 67.454545,
+      "new": 66.864545,
       "label": "parrafo-1",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 69.62,
-      "new": 67.727273,
+      "new": 67.137273,
       "label": "parrafo-2",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 70.07,
-      "new": 68.0,
+      "new": 67.41,
       "label": "parrafo-3",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 72.17,
-      "new": 68.545455,
+      "new": 67.955455,
       "label": "enviar",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 72.72,
-      "new": 69.090909,
+      "new": 68.500909,
       "label": "respuesta",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 74.02,
-      "new": 69.636364,
+      "new": 69.046364,
       "label": "calendario-demos",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 74.62,
-      "new": 69.909091,
+      "new": 69.319091,
       "label": "primera-demo",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 75.62,
-      "new": 70.727273,
+      "new": 70.137273,
       "label": "agenda-confirmada",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 78.47,
-      "new": 71.032727,
+      "new": 70.442727,
       "label": "salida-calendario",
       "sync": false,
       "subdivision": 2
     },
     {
       "old": 78.87,
-      "new": 71.272727,
+      "new": 70.682727,
       "label": "scene-boundary",
       "sync": false
     },
     {
       "old": 80.84,
-      "new": 73.181818,
+      "new": 72.591818,
       "label": "web-cierre",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 82.32,
-      "new": 74.818182,
+      "new": 74.228182,
       "label": "clic-visitante",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 83.79,
-      "new": 76.181818,
+      "new": 75.591818,
       "label": "clic-contactar",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 85.76,
-      "new": 78.090909,
+      "new": 77.500909,
       "label": "clic-cta",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 86.25,
-      "new": 78.909091,
+      "new": 78.319091,
       "label": "logo-final",
       "sync": true,
       "subdivision": 2
     },
     {
       "old": 88.58,
-      "new": 81.139091,
+      "new": 80.549091,
       "label": "scene-boundary",
       "sync": false
     }
   ],
   "calendar": {
-    "start": 69.909091,
+    "start": 69.319091,
     "groupInterval": 0.2727272727272727,
     "groupSize": 4,
     "duration": 0.3
   },
   "musicVolumePoints": [
     [
-      23.0,
+      23,
       0
     ],
     [
@@ -513,13 +513,13 @@
   ],
   "revision": "EN v1: V14 choreography, English UI/text, original Luke C voice at 1x, measured-silence cuts, musical accents at 110 BPM",
   "contactExit": {
-    "start": 69.36,
-    "end": 69.636364
+    "start": 68.77,
+    "end": 69.046364
   },
   "contactCaptions": {
-    "leadOut": 68.26,
-    "momentIn": 68.4,
-    "momentOut": 69.5,
-    "chipOut": 69.44
+    "leadOut": 67.67,
+    "momentIn": 67.81,
+    "momentOut": 68.91,
+    "chipOut": 68.85
   }
 }

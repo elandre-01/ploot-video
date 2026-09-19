@@ -17,7 +17,7 @@ export const PH = [
 export const CW = 440, GAP = 140, X0 = 740; // card width, gap, first card left
 const cardX = (i) => X0 + i * (CW + GAP);
 const phase = (p, i) => `<div class="card rlc ${i === 4 ? "buy" : ""}" id="s4-ph-${i}" style="left:${cardX(i)}px;top:${i === 4 ? 448 : 420}px">
-  <div class="top">${avatar(PEOPLE.lucia.av, { size: 44, live: false })}<div class="who"><b>${PEOPLE.lucia.name}</b><span>${PEOPLE.lucia.role}</span></div><span class="when">${p.t}</span></div>
+  <div class="top">${avatar(PEOPLE.adrian.av, { size: 44, live: false })}<div class="who"><b>${PEOPLE.adrian.name}</b><span>${PEOPLE.adrian.role}</span></div><span class="when">${p.t}</span></div>
   <div class="sig"><i></i>${esc(p.s)}</div>
   ${p.c ? `<div class="chk" id="s4-chk-${i}"><span class="ck">✓</span>${esc(p.c)}</div>` : ""}
 </div>`;

@@ -6,9 +6,67 @@ message: "Ploot detecta las señales de compra que ya existen y convierte a tu e
 destination: landing-hero
 aspect: 1920x1080
 language: es
-length: 81.139091s
+length: 80.549091s
 angle: storyboard-driven product demo, Spanish voice on the English V15 edit (identical picture, SFX and music)
 ---
+
+## V21 · el vídeo se acorta 0,59 s para matar la pausa de las tarjetas · 19 septiembre 2026
+
+Las dos pasadas anteriores movieron el hueco de sitio pero no lo quitaron: la duración del tramo la
+fijaba la locución, que deja 1,3 s de silencio entre «Son señales de compra» y «y nadie las ve», y
+0,5 s más antes de «Por eso hemos creado Ploot». Esta vez se recorta de verdad.
+
+- **La frase «y nadie las ve» se adelanta 0,59 s** (47,89 → 47,30) y con ella el anclaje
+  `nadie-las-ve` (48,091 → 47,50), que arrastra el retroceso de cámara, la apertura de las tarjetas y
+  su salida.
+- **Todo lo posterior se adelanta 0,59 s**: 32 anclas de pulso, 12 clips de voz y los segmentos de
+  música. La composición pasa de **81,139 s a 80,549 s**.
+- Resultado en el tramo: campo 3D a 46,22 · retroceso 47,50 · las tarjetas empiezan a salir 48,12 ·
+  negro 48,84 · bloque 06 a 49,41. La voz española ocupa 47,30 → 48,82, así que **las tarjetas están
+  en movimiento durante toda la frase y el negro entra justo al acabarla**: no queda hold.
+- Copia previa completa: `review/v21-tarjetas/before.tgz`.
+- Export sin música (voz + efectos): `renders/ploot-es-v21-sinmusica-1080p60.mp4`.
+
+**Pendiente**: la música quedó desplazada 0,59 s en el tramo final (sólo se actualizó su duración para
+que el build no fallara). Hay que recolocarla cuando se apruebe una pista.
+
+## V20 · segunda pasada sobre la pausa del 0:47 · 19 septiembre 2026
+
+Se midió el movimiento real del render (diferencia de píxeles entre fotogramas consecutivos, en
+tramos de 0,2 s) para localizar los huecos en vez de estimarlos a ojo. Salían dos:
+
+- **48,7 → 49,5 s · las tarjetas**: se quedaban quietas mientras aguantaba «Y nadie las ve». Ahora no
+  hay hold: en cuanto llegan a su sitio empiezan a **salir escalonadas** (una cada 0,04 s), cada una
+  acelerando hacia su borde y cayendo en profundidad (`power2.in`, 0,3 s). El plano se vacía con
+  movimiento y el corte a negro entra 0,2 s antes (`t15` T+14,45 → T+14,28), justo al terminar la
+  locución española (49,41 s).
+- **45,5 → 46,5 s · la plancha naranja**: el rótulo «Son señales de compra» quedaba clavado y después
+  el naranja se quedaba vacío. Ahora el rótulo crece durante todo su hold, el plano empuja despacio
+  (escala 1 → 1,05) y **el cambio de color encadena con la salida del texto** (`t13` T+11,95 → T+11,52,
+  salida del rótulo T+11,60 → T+11,40): de 1,0 s inmóvil a ~0,6 s.
+
+Export sin música (voz + efectos): `renders/ploot-es-v20-sinmusica-1080p60.mp4`.
+
+**Nota sobre el límite**: el hueco que queda viene de la propia toma de voz, que deja 1,3 s de
+silencio entre «Son señales de compra» y «y nadie las ve», y 0,5 s más antes de «Por eso hemos
+creado Ploot». Acortar más obliga o a mover esas frases de la locución o a adelantar el bloque 06
+completo, lo que desplaza todo el tramo final del vídeo.
+
+## V19 · caras sin repetir y 0:47 más dinámico · 18 septiembre 2026
+
+- **0:32 · bandeja de entrada**: Sofía Marín y Lucía Ferrer compartían retrato (`av23`). Lucía pasa a
+  `av29`, un retrato nuevo generado en el mismo estilo de estudio. Las seis filas son ya seis caras
+  distintas.
+- **0:35 · línea de la relación**: deja de usar a Lucía Ferrer y pasa a **Adrián Vega** (Director de
+  Ventas · Talia), nombre y retrato (`av30`) que no aparecen en ningún otro punto del vídeo.
+- **0:47 · «Y nadie las ve»**: las tarjetas se quedaban clavadas ~1,3 s y el plano se sentía en pausa.
+  Ahora, tras el retroceso, siguen abriéndose **alejándose del centro del frame** y cayendo en
+  profundidad hasta el corte, la cámara sigue retrocediendo (0,95 → 0,86, `ease: none`) y la
+  disolución empieza antes y dura más (0,5 s), encadenando con el negro. El corte a negro se queda
+  donde estaba porque la locución dice «y nadie las ve» hasta 49,41 s.
+- **Extra en el mismo plano**: Nuria Vidal aparecía dos veces en el campo de tarjetas; la segunda
+  pasa a Marta Rubio. Las ocho tarjetas son ocho personas distintas.
+- Export sin música (voz + efectos): `renders/ploot-es-v19-sinmusica-1080p60.mp4`.
 
 ## V18 · efectos +6 dB sobre V17 · 18 septiembre 2026
 

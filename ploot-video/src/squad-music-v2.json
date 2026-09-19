@@ -1,8 +1,8 @@
 {
   "original": "/Users/elenaandreromero-nch/Desktop/PLOOT/stems-zip-Grisly Brill - Squad Kill-wav (Artlist · Grisly Brill · Ready for Action · 110 BPM · Cm · stems)",
-  "duration": 81.139091,
+  "duration": 80.549091,
   "bpm": 110,
-  "revision": "V2 · más energía y todo al pulso: cada etapa arranca en un primer tiempo del tema exactamente en su anclaje (chill = piano desde su primer tiempo con el vídeo; medio = drop B al salir del silencio; fuerte = drop final/clímax en el burst de Ploot; resolución = golpe final sobre el logo) y una capa de acentos musicales sacados de los stems (orquesta, impactos, batería) en los cortes y rótulos fuertes. Niveles +2/+3 dB sobre V1, carve más suave (0,25).",
+  "revision": "V2 · más energía y todo al pulso: cada etapa arranca en un primer tiempo del tema exactamente en su anclaje (chill = piano desde su primer tiempo con el vídeo; medio = drop B al salir del silencio; fuerte = drop final/clímax en el burst de Ploot; resolución = golpe final sobre el logo) y una capa de acentos musicales sacados de los stems (orquesta, impactos, batería) en los cortes y rótulos fuertes. Niveles +2/+3 dB sobre V1, carve más suave (0,25). · V21: el tramo posterior a las tarjetas se adelantó 0,59 s; la colocación musical hay que rehacerla al elegir pista definitiva.",
   "segments": [
     {
       "id": "squad2-chill",
@@ -95,7 +95,7 @@
     {
       "id": "squad2-high",
       "src": ".media/audio/bgm/squad2-high.wav",
-      "start": 51.090909,
+      "start": 50.500909,
       "duration": 27.818182,
       "volume": 2.317,
       "sourceOffset": 0,
@@ -141,7 +141,7 @@
     {
       "id": "squad2-end",
       "src": ".media/audio/bgm/squad2-end.wav",
-      "start": 78.909091,
+      "start": 78.319091,
       "duration": 2.23,
       "volume": 3.126,
       "sourceOffset": 0,
@@ -343,7 +343,7 @@
     {
       "id": "stab-07",
       "src": ".media/audio/bgm/hit-orch-stab-B.wav",
-      "start": 57.066636,
+      "start": 56.476636,
       "duration": 1.6,
       "volume": 0.5,
       "sourceOffset": 0,
@@ -369,7 +369,7 @@
     {
       "id": "stab-08",
       "src": ".media/audio/bgm/hit-orch-stab-B.wav",
-      "start": 61.703,
+      "start": 61.113,
       "duration": 1.6,
       "volume": 0.5,
       "sourceOffset": 0,
@@ -395,7 +395,7 @@
     {
       "id": "stab-09",
       "src": ".media/audio/bgm/hit-orch-stab-B.wav",
-      "start": 66.339364,
+      "start": 65.749364,
       "duration": 1.6,
       "volume": 0.5,
       "sourceOffset": 0,
@@ -421,7 +421,7 @@
     {
       "id": "stab-10",
       "src": ".media/audio/bgm/hit-sfx-impact-B.wav",
-      "start": 73.086818,
+      "start": 72.496818,
       "duration": 1.4,
       "volume": 0.45,
       "sourceOffset": 0,
@@ -447,7 +447,7 @@
     {
       "id": "stab-11",
       "src": ".media/audio/bgm/hit-drum-hard.wav",
-      "start": 77.702909,
+      "start": 77.112909,
       "duration": 0.7,
       "volume": 0.5,
       "sourceOffset": 0,

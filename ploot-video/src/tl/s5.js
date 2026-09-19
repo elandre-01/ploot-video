@@ -165,11 +165,12 @@ function s5(tl, T) {
     { x: 0, opacity: 1, duration: 0.5, ease: "sine.inOut", immediateRender: false }, t12 + 0.04);
   hide(tl, "#s5-p2", t12 + 0.54);
   tl.set("#s5-webs", { display: "none" }, t12 + 0.47);
-  tiltWords(tl, "#s5-t7", t12 + 0.4, { gap: 0.105, dur: 0.32, y: 32, tilt: 0, from: 0.99, grow: 1.015, hold: 0.4 });
-  tl.to("#s5-t7 .line", { y: -24, opacity: 0, filter: "none", duration: 0.34, ease: "power2.inOut" }, T + 11.60);
+  tiltWords(tl, "#s5-t7", t12 + 0.4, { gap: 0.105, dur: 0.32, y: 32, tilt: 0, from: 0.99, grow: 1.05, hold: 0.85 });
+  tl.fromTo("#s5-orangeL", { scale: 1 }, { scale: 1.05, duration: 1.7, ease: "none", immediateRender: false, transformOrigin: "50% 50%" }, t12 + 0.3);
+  tl.to("#s5-t7 .line", { y: -24, opacity: 0, filter: "none", duration: 0.34, ease: "power2.inOut" }, T + 11.40);
 
   // ---------- 5.13 (11.95 → 13.2) the colour turns · the signal field arrives in extreme close-up (reference 19.32, 0:00–0:40) ----------
-  const t13 = T + 11.95, t14 = T + 13.2, t15 = T + 14.45;
+  const t13 = T + 11.52, t14 = T + 13.2, t15 = T + 14.28;
   const holdEnd = t15;   // the background turns black immediately after the sentence
   tl.set("#s5-lightL", { opacity: 1, x: 0 }, t13);   // the light plane already sits under the orange
   // the orange does not slide out: its colour transforms into the light gradient. The plane's own colour drifts from
@@ -207,22 +208,30 @@ function s5(tl, T) {
 
   // ---------- 5.14 (13.2 → 14.65) reference 0:40–2:00: fast pull-back, the cards fly to the edges with motion blur while «Y nadie las ve»
   // composes tilted, word by word · short hold with the small cards around the line · then the cards fade to white ----------
-  const DPB = 0.5;
+  const DPB = 0.5, tOut = T + 13.7;   // tOut: instante en que el plano empieza a vaciarse
   tl.to("#s5-veil", { opacity: 0.9, duration: 0.35, ease: "power1.inOut" }, t14 - 0.05);            // the frame goes white as the pull-back starts
   tl.to("#s5-cam14", { scale: 0.95, x: 0, y: 0, duration: DPB, ease: "power2.inOut" }, t14);         // strong pull-back
-  tl.to("#s5-cam14", { scale: 0.9, duration: holdEnd - (t14 + DPB), ease: "sine.inOut" }, t14 + DPB);   // never still
+  tl.to("#s5-cam14", { scale: 0.86, duration: holdEnd - (t14 + DPB), ease: "none" }, t14 + DPB);   // never still: sigue retrocediendo hasta el corte
   D.cards.forEach((c, i) => {
     const o = off(SP, i);
     tl.to("#s5-c-" + i, { x: o.x, y: o.y, duration: DPB, ease: "power2.inOut" }, t14);            // each card flies to its spot around the line
     tl.to("#s5-c-" + i, { filter: "blur(6px)", duration: 0.14, ease: "power1.in" }, t14 + 0.04);   // motion blur while it moves fast
     tl.to("#s5-c-" + i, { filter: "blur(0px)", duration: 0.24, ease: "power2.out" }, t14 + 0.22);
     tl.set("#s5-c-" + i, { clearProps: "filter" }, t14 + 0.461);
+    // Antes las cards se clavaban durante todo el hold y el plano se sentía en pausa. Ahora siguen
+    // abriéndose y cayendo en profundidad en una sola dirección hasta que se funden.
+    // Se abren SIEMPRE alejándose del centro del frame, nunca hacia la línea de texto (en inglés
+    // es más larga y una tarjeta se le echaba encima), y a la vez caen en profundidad.
+    const ux = SP[i][0] - 960, uy = SP[i][1] - 540, ul = Math.hypot(ux, uy) || 1;
+    // deriva corta hacia fuera mientras la frase se compone…
+    tl.to("#s5-c-" + i, { x: o.x + ux / ul * 55, y: o.y + uy / ul * 55, z: "-=110", duration: tOut - (t14 + DPB), ease: "none" }, t14 + DPB);
+    // …y salida escalonada: cada tarjeta se va acelerando hacia su borde, no se funde en el sitio.
+    const tI = tOut + i * 0.04;
+    tl.to("#s5-c-" + i, { x: o.x + ux / ul * 300, y: o.y + uy / ul * 300, z: "-=420", opacity: 0, filter: "blur(7px)", duration: 0.3, ease: "power2.in" }, tI);
   });
   tiltWords(tl, "#s5-t8", t14 + 0.08, { gap: fr(4), hold: 1.0 });   // the line lives outside the camera and keeps its size
   // the small cards stay around the line for a beat, then fade to white (reference 1:40–1:80); the cursors go with them
-  const tFade = T + 14.1;
-  tl.to("#s5-g14 .sig", { opacity: 0, filter: "blur(4px)", duration: 0.4, ease: "power1.inOut" }, tFade);
-  tl.to("#s5-k1, #s5-k2, #s5-pl1, #s5-pl2", { opacity: 0, duration: 0.4, ease: "power2.in" }, tFade - 0.1);
+  tl.to("#s5-k1, #s5-k2, #s5-pl1, #s5-pl2", { opacity: 0, duration: 0.3, ease: "power2.in" }, tOut - 0.1);
 
   // The entire background becomes black in seven frames; the caption clears with it.
   tl.to("#s5-cam14", { scale: 0.7, opacity: 0, duration: 0.24, ease: "power2.in" }, t15);
