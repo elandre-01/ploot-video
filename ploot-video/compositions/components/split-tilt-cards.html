@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <!--
   split-tilt-cards: HyperFrames video primitive (layout / compare / holdable)
 
@@ -58,26 +58,21 @@
   data-composition-id from the live root). Variables come from
   window.__hyperframes.getVariables().
 -->
-<html
-  lang="en"
-  data-composition-id="split-tilt-cards"
-  data-composition-duration="4.5"
-  data-composition-variables='[
-    { "id": "label_a", "type": "string", "role": "content", "label": "Left label", "description": "Mono header on the left card. Blank hides it.", "default": "Before" },
-    { "id": "label_b", "type": "string", "role": "content", "label": "Right label", "description": "Mono header on the right card. Blank hides it.", "default": "After" },
-    { "id": "badge_a", "type": "string", "role": "content", "label": "Left badge", "description": "Pill badge that spring-pops at the left card inner edge. Blank disables it.", "default": "v1" },
-    { "id": "badge_b", "type": "string", "role": "content", "label": "Right badge", "description": "Pill badge that spring-pops at the right card inner edge. Blank disables it.", "default": "v2" },
-    { "id": "accent", "type": "enum", "role": "style", "label": "Accent", "description": "Right-card tint, right badge, and right ambient glow color.", "default": "green", "options": [{ "value": "green", "label": "Green" }, { "value": "blue", "label": "Blue" }, { "value": "violet", "label": "Violet" }] },
-    { "id": "exit", "type": "enum", "role": "timing", "label": "Exit", "description": "Outgoing transition. None holds the final spread.", "default": "none", "options": [{ "value": "none", "label": "None" }, { "value": "fade", "label": "Fade" }, { "value": "up", "label": "Up" }] }
-  ]'
->
+<html lang="en" data-composition-id="split-tilt-cards" data-composition-duration="4.5" data-composition-variables="[
+    { &quot;id&quot;: &quot;label_a&quot;, &quot;type&quot;: &quot;string&quot;, &quot;role&quot;: &quot;content&quot;, &quot;label&quot;: &quot;Left label&quot;, &quot;description&quot;: &quot;Mono header on the left card. Blank hides it.&quot;, &quot;default&quot;: &quot;Before&quot; },
+    { &quot;id&quot;: &quot;label_b&quot;, &quot;type&quot;: &quot;string&quot;, &quot;role&quot;: &quot;content&quot;, &quot;label&quot;: &quot;Right label&quot;, &quot;description&quot;: &quot;Mono header on the right card. Blank hides it.&quot;, &quot;default&quot;: &quot;After&quot; },
+    { &quot;id&quot;: &quot;badge_a&quot;, &quot;type&quot;: &quot;string&quot;, &quot;role&quot;: &quot;content&quot;, &quot;label&quot;: &quot;Left badge&quot;, &quot;description&quot;: &quot;Pill badge that spring-pops at the left card inner edge. Blank disables it.&quot;, &quot;default&quot;: &quot;v1&quot; },
+    { &quot;id&quot;: &quot;badge_b&quot;, &quot;type&quot;: &quot;string&quot;, &quot;role&quot;: &quot;content&quot;, &quot;label&quot;: &quot;Right badge&quot;, &quot;description&quot;: &quot;Pill badge that spring-pops at the right card inner edge. Blank disables it.&quot;, &quot;default&quot;: &quot;v2&quot; },
+    { &quot;id&quot;: &quot;accent&quot;, &quot;type&quot;: &quot;enum&quot;, &quot;role&quot;: &quot;style&quot;, &quot;label&quot;: &quot;Accent&quot;, &quot;description&quot;: &quot;Right-card tint, right badge, and right ambient glow color.&quot;, &quot;default&quot;: &quot;green&quot;, &quot;options&quot;: [{ &quot;value&quot;: &quot;green&quot;, &quot;label&quot;: &quot;Green&quot; }, { &quot;value&quot;: &quot;blue&quot;, &quot;label&quot;: &quot;Blue&quot; }, { &quot;value&quot;: &quot;violet&quot;, &quot;label&quot;: &quot;Violet&quot; }] },
+    { &quot;id&quot;: &quot;exit&quot;, &quot;type&quot;: &quot;enum&quot;, &quot;role&quot;: &quot;timing&quot;, &quot;label&quot;: &quot;Exit&quot;, &quot;description&quot;: &quot;Outgoing transition. None holds the final spread.&quot;, &quot;default&quot;: &quot;none&quot;, &quot;options&quot;: [{ &quot;value&quot;: &quot;none&quot;, &quot;label&quot;: &quot;None&quot; }, { &quot;value&quot;: &quot;fade&quot;, &quot;label&quot;: &quot;Fade&quot; }, { &quot;value&quot;: &quot;up&quot;, &quot;label&quot;: &quot;Up&quot; }] }
+  ]">
   <head>
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8">
     <title>Split Tilt Cards</title>
   </head>
   <body>
     <template>
-      <div id="root" data-composition-id="split-tilt-cards" data-duration="4.5" data-fps="30">
+      <div data-hf-id="hf-yjzy" id="root" data-composition-id="split-tilt-cards" data-duration="4.5" data-fps="30">
         <style>
           *,
           *::before,
@@ -338,52 +333,46 @@
           }
         </style>
 
-        <div
-          id="split-tilt-cards-clip"
-          class="stc-clip clip"
-          data-start="0"
-          data-duration="4.5"
-          data-track-index="0"
-        >
-          <div class="stc-stage">
-            <div class="stc-wing stc-wing-a">
-              <div class="stc-float stc-float-a">
-                <section class="stc-card stc-card-a" aria-label="Left card">
-                  <div class="stc-label stc-label-a"></div>
-                  <div class="stc-slot" data-slot="card-a">
+        <div data-hf-id="hf-j1wz" id="split-tilt-cards-clip" class="stc-clip clip" data-start="0" data-duration="4.5" data-track-index="0">
+          <div data-hf-id="hf-cqvp" class="stc-stage">
+            <div data-hf-id="hf-m0ge" class="stc-wing stc-wing-a">
+              <div data-hf-id="hf-pl0e" class="stc-float stc-float-a">
+                <section data-hf-id="hf-5bva" class="stc-card stc-card-a" aria-label="Left card">
+                  <div data-hf-id="hf-tw3e" class="stc-label stc-label-a"></div>
+                  <div data-hf-id="hf-xjk1" class="stc-slot" data-slot="card-a">
                     <!-- SLOT "card-a": replace the children of this element
                          with your own content (img, video, or HTML). -->
-                    <div class="stc-default" aria-hidden="true">
-                      <div class="stc-bar"></div>
-                      <div class="stc-line"></div>
-                      <div class="stc-line"></div>
-                      <div class="stc-line"></div>
+                    <div data-hf-id="hf-2eof" class="stc-default" aria-hidden="true">
+                      <div data-hf-id="hf-yr2s" class="stc-bar"></div>
+                      <div data-hf-id="hf-hzwz" class="stc-line"></div>
+                      <div data-hf-id="hf-w6er" class="stc-line"></div>
+                      <div data-hf-id="hf-vs3q" class="stc-line"></div>
                     </div>
                   </div>
                 </section>
-                <div class="stc-badge-pos stc-badge-pos-a">
-                  <div class="stc-badge stc-badge-a"></div>
+                <div data-hf-id="hf-2wj2" class="stc-badge-pos stc-badge-pos-a">
+                  <div data-hf-id="hf-yp3m" class="stc-badge stc-badge-a"></div>
                 </div>
               </div>
             </div>
 
-            <div class="stc-wing stc-wing-b">
-              <div class="stc-float stc-float-b">
-                <section class="stc-card stc-card-b" aria-label="Right card">
-                  <div class="stc-label stc-label-b"></div>
-                  <div class="stc-slot" data-slot="card-b">
+            <div data-hf-id="hf-i2cd" class="stc-wing stc-wing-b">
+              <div data-hf-id="hf-lmwd" class="stc-float stc-float-b">
+                <section data-hf-id="hf-pi72" class="stc-card stc-card-b" aria-label="Right card">
+                  <div data-hf-id="hf-pxzd" class="stc-label stc-label-b"></div>
+                  <div data-hf-id="hf-1ho2" class="stc-slot" data-slot="card-b">
                     <!-- SLOT "card-b": replace the children of this element
                          with your own content (img, video, or HTML). -->
-                    <div class="stc-default" aria-hidden="true">
-                      <div class="stc-bar"></div>
-                      <div class="stc-line"></div>
-                      <div class="stc-line"></div>
-                      <div class="stc-line"></div>
+                    <div data-hf-id="hf-od0v" class="stc-default" aria-hidden="true">
+                      <div data-hf-id="hf-qa3w" class="stc-bar"></div>
+                      <div data-hf-id="hf-vdsp" class="stc-line"></div>
+                      <div data-hf-id="hf-uzho" class="stc-line"></div>
+                      <div data-hf-id="hf-ul6n" class="stc-line"></div>
                     </div>
                   </div>
                 </section>
-                <div class="stc-badge-pos stc-badge-pos-b">
-                  <div class="stc-badge stc-badge-b"></div>
+                <div data-hf-id="hf-yyf1" class="stc-badge-pos stc-badge-pos-b">
+                  <div data-hf-id="hf-uqzl" class="stc-badge stc-badge-b"></div>
                 </div>
               </div>
             </div>
